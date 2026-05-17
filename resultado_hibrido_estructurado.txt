@@ -1,0 +1,49 @@
+--- PAGINA 1 ---
+
+[TEXTO]
+Panel indicador es
+7 Panel indicador
+En la pantalla se muestran los valores ajustados en ese momento, las posibili-
+dades de selección o los textos con indicaciones.
+O $e O E
+> NZCIZOTA
+. -
+OZIZOZ1 kg =0 —
+Indicación Denominación Másinformación________
+0:40 * Duración del pro- Duración del programa/tiempo restante
+grama/tiempo res- del programa previstos de forma aproxi-
+tante del progra- mada.
+ma
+10h * Tiempo restante > "Pulsadores", Página 29
+8,0 kg ' Carga de ropa Carga admisible máxima para el progra-
+aconsejada ma ajustado en kg.
+== -=-- Velocidad de cen- Velocidad de centrifugado ajustada (en
+1200 trifugado revoluciones por minuto)
+> "Pulsadores”, Página 29
+O: sin centrifugado, solo vaciado
+- - - -—: parada del aclarado, sin desa-
+guar
+— (Inicio/Pau- Inicio/Pausa Iniciar, cancelar o pausar
+sa + Carga) = se ilumina: el programa está en curso y
+puede interrumpirse o pausarse.
+= parpadea: el programa puede iniciarse
+O reanudarse,
+7 Lavado Estado del programa
+Aclarado Estado del programa
+* Ejemplo
+27
+
+[TABLAS]
+
+Tabla 1:
+Indicación                   | Denominación                                             | Más información                       
+0:40 *                       | Duración del pro- Duración del programa/tiempo restante  |                                       
+10h *                        | Tiempo restante > "Pulsadores", Página 29                |                                       
+8,0 kg '                     | Carga de ropa                                            | Carga admisible máxima para el progra-
+aconsejada                   | ma ajustado en kg.                                       |                                       
+== -=--                      | Velocidad de cen- Velocidad de centrifugado ajustada (en |                                       
+1200                         | rifugado                                                 | revoluciones por minuto)              
+== (Inicio/Pau- Inicio/Pausa | Iniciar, cancelar o pausar                               |                                       
+sa + Carga)                  | = se ilumina: el programa está en curso y                |                                       
+7                            | Lavado                                                   | Estado del programa                   
+Aclarado                     | Estado del programa                                      |                                       

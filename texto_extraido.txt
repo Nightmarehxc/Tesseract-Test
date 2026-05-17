@@ -1,0 +1,5640 @@
+
+
+--- INICIO PÁGINA 1 ---
+
+METAL WEAVE GAMES Ly ANDREAS WALTERS
+
+
+
+--- INICIO PÁGINA 2 ---
+
+
+
+--- INICIO PÁGINA 3 ---
+
+
+
+--- INICIO PÁGINA 4 ---
+
+
+
+--- INICIO PÁGINA 5 ---
+
+
+
+--- INICIO PÁGINA 6 ---
+
+CREDITS
+
+CREATIVE DIRECTOR
+Andreas Walters
+
+AUTHORS
+Alana Currie John D. Kennedy
+
+Ben Woerner Karl Larsson
+
+Brie Sheldon Laura Montgomery-Hurrell
+Devon Oratz Mikaela Barree
+
+Eloy Lasanta Richard Bellingham
+Jacob Wood Ryan Schoon
+
+Jesse Butler Sarah Richardson
+
+Joel Sparks Vickey Beaver
+
+LEAD EDITOR
+Gareth Hodges
+
+EDITOR
+Jeremy Land
+
+CORE ART
+
+Conceptopolis
+www.conceptopolis.com
+
+SUPPLEMENTAL ARTISTS
+
+Eren Arik Domenico Neziti
+www.ErenArik.com www.Nezart.DeviantArt.com
+
+Denis Loedner Maciej Kuczynski
+www.ArtStation.com/artist/DenisTheMenace www.Pixel Joint.com/p/925.htm
+PUBLISHED BY
+Metal Weave Games
+
+www.MetalWeaveGames.com
+
+COPYRIGHT
+O 2013 Metal Weave Games
+BABY BESTIARY and its logo are trademarks of Metal Weave Games in the U.S.A. and other countries.
+This material is protected under the copyright laws of the United States of America. Any reproduction or
+unauthorized use of the material or artwork contained herein is prohibited without the express written
+permission of Metal Weave Games. This product is a work of fiction.
+Visit us at www.MetalWeaveGames.com
+
+Printed in Taiwan by KrakenPrint
+
+
+--- INICIO PÁGINA 7 ---
+
+CONTENTS
+
+3 Creator's Note
+
+4 Kickstarter Backer Shoutout 34
+6 You, The Beastmaster 36
+7 Finding Your Baby Beast 38
+7 Baby Intelligence 40
+7 Rearing A Baby Beast 42
+8 Baby Beasts in the City 44
+8 Training Your Beast 46
+9 Beasts as Mounts 48
+9 Stages of Development 50
+10  Protecting Your Baby Beast 52
+11  Returning a Beast to the Wild 54
+12  Basilisk Lizardling 56
+14 — Blink Puppy 58
+16  Bulette Billy 60
+18  Centaur Foal 62
+20 Cerberus Puppy 64
+22  Chimera Cub 66
+24  Cockatrice Chick 68
+26  Couatl Neonate 70
+28 Dragon Wyrmling 72
+30  Elementlets 74
+
+Creator's Note
+
+Throughout my entire life, 1 have always had a unique connection
+to animals. 1 could probably attribute that to having grown
+up with animals of various sorts and always having an animal
+companion, although 1 still want my red-tailed (dire) hawk.
+
+The inspiration for the Baby Bestiary actually came out of a
+discussion where someone (our editor, Jeremy) had realized that
+
+the rust monster was classified as aberration rather than a magical
+
+beast. The conversation then turned to how nonthreatening a
+magical rust kitten would be compared to a baby aberrant rust
+
+monster. This spurred my imagination on the Baby Bestiary, which
+
+shows that every beast has an adorable stage to them. And as you
+can see, they're pretty cute.
+
+This book is intended to be system- and setting-neutral, meaning
+
+there will be no ability scores, DCs, stat blocks, or spells listed
+within this book (we have another one for that). Rather, you will
+find a rich narrative about what you could expect from a baby
+beast, focusing on feeding, development, training, re-releasing,
+and issues that could emerge whilst having a baby beast in the
+company of your adventuring party (or in your home).
+
+Also, without the help of all our Kickstarter backers, this project
+would never have come to life as you see it now. Without your
+help, this would still be a dream concept and would never have
+seen the light of day as a book as beautiful as this one is.
+
+Aside from my smaller supplements, this is my first major book
+production, and l am quite proud of it in every aspect. 1 hope that
+it lives up to your expectations of both content and quality, as 1
+wish to improve from one book to the next.
+
+Thank you,
+
+Andreas Walters
+
+Eyelings, Dodomeki
+Gelatinous Cubelet
+Gnoll Cub
+
+Griffin Hatchling
+Hippocampus Ery
+Kirin Foal
+
+Kitsune Pup
+Kobold Kid
+Leviathan, Little
+Manticore Cub
+Mimicling
+Minotaur Calf
+Nightmare Colt
+Owlbear Cubs
+Phase Kitten
+Phoenix Hatchling
+Rakshasa Kitten
+Rust Weevil
+Sphinx Kitten
+Titan Tyke
+
+Treant Sapling
+Wyvern Elver
+
+
+
+--- INICIO PÁGINA 8 ---
+
+KICKSTARTER BACKER SHOUTOUT
+
+[HJ]-Darmys Asagiri
+
+A. Murchison
+
+Aard Rinn
+
+Aaron (and Bill The Bear)
+HeritAge-Smith
+
+Aaron Franz
+
+Aaron Tucker
+
+Adam ex Cecilia Óstergren
+
+Adam Bender
+
+Adam Everman
+
+Adam Ness
+
+Adam Thompson
+
+Adam Toulmin
+
+Adma Drukk]l
+
+Alairan
+
+Alan Millard
+
+Alberto Mendoza
+
+Aldo Ibarra of Shadowdale
+
+Alex “MonsterChef”
+Neilson
+
+Alex Lapin
+
+Alexander “Guddha”
+Gudenau
+
+Alexander Wreschnig
+
+Alicia Cameron
+
+Alicia P.
+
+Alisha Walton
+
+Alisia Rueda
+
+Allison Daugherty
+
+Alyssa Evensen
+
+Amanda Hitchcock
+
+Amanda Power
+
+AmazonV
+
+Amy and Don Edgecomb
+
+Anders Howard
+
+Andreas Lieberoth
+
+Andrew Clough
+
+Andrew Glynn
+
+Andrew Janeba
+
+Andrew Phillips
+
+Andrew Yang
+
+Andy “awmyhr” MyHR
+
+Andy Antolick
+
+Anne « Sigfried Trent
+
+Anny Tritchler
+
+Anonymous
+
+Ariel Paulino
+
+Arlene Medder
+
+Artem Safarov
+
+Ashley Bogert
+
+Astro Lark
+
+Atkana
+
+Aurora Thornhill
+
+Austin and Erin
+
+Barbara Soto
+
+Barry Arnst
+
+Barry sullivan
+
+Becky Schoen
+
+Beff, Alex, and Justin :D
+
+Ben and Jess Feehan
+
+Benjamin “Cookie”
+Saxton-Ruiz
+
+4.
+
+Benjamin Darby Klein
+Benjamin Ragheb
+Benjamin S.J. Oakley
+Beth Rimmels
+
+Bill Bateman
+Blossom Vydrina
+Brain23
+
+Brandon Kern
+Brandon Rankin
+Brendan Hencher
+Brent D. Sims
+
+Brian Allred
+
+Brian € Cynthia Brodeur
+Brian Day
+
+C Andrews
+
+C. Hipke
+
+Calum Buchanan
+Cam Lobay
+
+Capn Frank
+
+Carla De La Rosa
+Carol Benovic
+
+César “Kimble” Luz
+Charlotte Saal
+Chelsea Knauf
+
+Chris « Anna Skuller
+Chris Battey
+
+Chris Bekofske
+
+Chris Dalton
+
+Chris Isberg
+
+Chris Larkin
+
+Chris Lowell
+
+Chris Meyer
+
+Chris Olsen
+
+Chris Pickler
+
+Chris Richmond
+Chrisinda Edmonds
+Christi Maiolo
+Christina Rowe
+Christopher Norcross
+Christopher S. Sanders
+Christopher Trapp
+Christopher Wilson
+Claire Lawson
+
+Clay €« Ben Blankenship
+Clinton Breeden
+Coach « Ayo
+
+Cody Hann
+
+Cole Busse
+
+Colleen R
+
+Conor Mooney
+Cordelia S. Wolf
+Corinna L. Clanton
+Courtney Westmoreland
+Crime Fighter Prime
+Cristiane Weber
+Cthulhu Kid
+CtrlAltFaceroll
+
+Curt Reinert
+
+COW “Fuzzy” Lausten
+Damien Moore
+
+Dan Hope
+
+Danger Ross
+
+Daniel
+
+Daniel Fidelman
+
+Daniel Jensen
+
+Daniel Kubler
+
+Daniel Thomas Lemich
+
+Danielle Neary
+
+Danny Farias
+
+Dar (the barbarian) DeHaai
+
+Darwin Bromley
+
+Daryl Putman
+
+Dave Tomczyk
+
+Davena Oaks
+
+David A. Nolan
+
+David G. Brewington II
+
+David Rihan
+
+David Ruskin
+
+David Saunders
+
+David Ting
+
+Dawnwind k'Shaya
+
+Declan O'Connell
+
+Demiurgis
+
+Derek Grimm
+
+Derek Thomas
+
+Devin Tant
+
+Devon Oratz and Mikacla
+Barree
+- End Transmission
+Games
+
+Diandra Anne Lasrado
+
+Dominic Quach
+
+Don Pahl
+
+Don, Beth € Meghan Ferris
+
+Dr. Matt “Professor” Lust
+and Josie Lust
+
+Draco18s
+
+Dragon Lady Barbour
+
+DreadPirateaAdam!!
+
+Drength
+
+Duncan Young
+
+Dustin Archer
+
+E Grindberg
+
+E.B. “EbNinja” Hunter
+
+Ed Friendly
+
+Ed Kowalezewski
+
+Eden Brandeis
+
+Edward Markland
+
+Eli Omernick
+
+Eliram Barak
+
+Elizabeth Meyers
+
+Elizabeth Sullivan
+
+Elliot E.
+
+ELRS
+
+Emily Brumfield « Susann
+Hessen
+
+Eric Baker
+
+Eric Canapini
+
+Eric Moffitt
+
+Ericaceae
+
+Erin G Bonelle
+
+Esteváo Manoel Alves
+Corréa Filho (Gereth-The
+Painting Frog)
+
+Everett Owen
+
+Eyal Teler
+
+Ezequiel Zarate
+
+Fahad Nacem
+
+Ferret
+
+Flash Hammer Creative
+Studios (FHCS)
+
+Florence Caron Payette
+
+For my honey, Alyssa ;*
+
+Francesca é< Cristiano
+
+Fred Zeleny
+
+Gabriel bulik
+
+Galit A.
+
+Garcia
+
+Gareth Hodges Emily De
+Rango
+
+Gayle Schoen
+
+Genevieve Matranga
+
+Ginger Bryngelson
+
+Grace Spengler
+
+Graham Lewis
+
+Graham Smallwood
+
+Grant Chen
+
+Greg Skinner
+
+Greg Storey
+
+Greta Sayle
+
+Griffin D. Morgan
+
+Guilherme Casas Goncalves
+
+Guo Heng the Awesome,
+of Uranus
+
+Guy Thompson
+
+H+M <3
+
+Haematite
+
+Calendar: Kitty”
+
+Hannah Craig
+
+Hayley Schenk, the Loving
+Mate to a Toxic Life
+
+Heather V. Kreiter
+
+Henty and Ranna
+
+Hermanni Raatevaara
+
+Hiro Damighty Ewok
+
+Hiroaki Kamidate
+
+Holly Cook
+
+Holly Hunt
+
+lan McGarty
+
+Igor Moreno
+
+Tke Scott Haldan
+
+Tlka Helo
+
+Ivan and
+the Hunters Books Team
+
+Ivy Gerbis
+
+Levine
+
+Lowe
+
+. Griff Griffin
+
+. Harrison Barber
+
+. Patrick Walker
+
+ack Brown
+
+ack Daw
+
+lack Hepburn Raine
+
+ack Norris
+
+lacob Pawson
+
+lacob Ryan Pyle
+
+acob Thomas
+acqueline Kate Salsman
+acqueline Marcus
+
+ade Kovac
+
+ames “D-Boy” Panto
+ames Ballard
+
+ames Buckhorn of
+
+CarrollFilms
+ames Moreland
+ames Penn Breedlove
+ames Quigg
+ames Shepherd
+amie Song
+ason e Tara
+ason Link
+ason Liswood
+ason Marks
+ason Pitre
+ason Warlock
+C Huber
+D Starflower
+eff Kearns
+eff Kosovich
+eff Moore
+eff Riegle,
+
+Keeper of WereBeagles
+eff Rosenberg
+effrey Mclean
+en A. Ross
+en Webster
+ennifer Cole
+ennifer Kratovil
+ennifer Whyte
+eremiah Erye
+Jeremy Crigger
+
+Jeremy Kincaid
+Jerry Meyer Jr.
+
+Jess Chatham
+
+Jesse £« Naomi
+
+esse Ephraim
+
+esse Henning
+
+essie T
+
+im Austerman
+
+im DelRosso
+
+im McKeon
+
+immy Santito
+Joanna Stacbler-Kimmel
+oe Thater
+
+'ohn D. Kennedy
+'ohn Eghoian
+
+ohn GT
+
+'ohn Hergenroeder
+'ohn Komala
+
+ohn Laffan
+
+'ohn Moore
+
+'ohn Munro
+
+'ohn Pritchett
+
+'ohn W. C. McNabb
+o-Jo Taylor
+
+on Spengler
+'on.Moore
+
+onathan Elliott Blum
+
+
+
+--- INICIO PÁGINA 9 ---
+
+lonathan L. Warner
+lonathan Shaver
+lonathan Turpie
+lonny Omer
+
+lordan Smith Loves Eryn
+Raimondo
+
+orgen Tjerno
+losema “Yrdin” Romeo
+loseph B. Prozinski
+loseph Civin
+
+loseph D. Payne
+oseph Oliveira
+
+losh Eaves
+
+losh Kane
+
+losh Shrader
+
+loshua R. Hollowell
+loshua Ramsey
+osiah Bradbury
+osiah Mann
+
+ulius Múller
+uliusderBastler
+
+ye “Yuki Hyou” Karl-Perry
+K. Pickett
+Kaiaa
+Kalle Tuovila
+KalTorak18
+Kamekie
+Karl S. Lake
+Kary Realm
+
+Master K Williams
+Kasper Hermansen
+Kate R. Wolsey
+Kate Underwood
+Katelyn Pi Cushing
+Katie Harwood
+Katrina
+Kay Xiggie Liu
+Keith Preston
+Kendall Jung
+Kendel Rogers
+Kendra Wong
+Kenneth Turner
+Kerwin Beechey
+Kettinger Bernát
+Kevin Bryant
+Kevin Huang
+Kevin J.
+Kevin J. Lee
+Kevin Merriman
+Kevin Moore
+Khinaisidog
+Kirstyn Humniski
+Kit Walker
+kla.
+Klaus Ole Kristiansen
+Kody Tench
+Kokikio
+Konner Smith
+Korbl Klimecki
+Kris Pivin
+Kristoffer Brandberg
+Kunkle
+Kurt Anderson
+Kylan Coats
+Kyle Bentley
+Kyle Main
+Lachlan Webb
+
+Lanir
+Laura Antoniou
+Lavinia the niecelet
+Leclercq Guillaume
+Lee W Murdock
+Lenaen Linneal
+Leo Lima
+Leron Culbreath
+Lim Ye Ping
+Lior Nailo Samuel
+Lindsay Walter
+Lisa Disterheft
+Lobster Mobster
+Lord Frisco
+Lucho Hildebrandt
+Lucian Levine
+
+$ Nicole Erickson
+Luke Sigler
+Maiken Klúnder
+Mairi Hunter €: Jacinda
+
+Moore
+Mama Jayme Mercer
+Marc Gardner
+Marc Plourde
+Marcin MoÁocicki
+Marianne Salyer
+Marjorie Lamkin
+Mark Ferguson
+Mark Hurst
+Mark Laird
+Mark McGranaghan
+Mark Sponholtz
+Masaki Miyashita
+Matt Burton
+Matt DeKrey
+Matt Steen
+Matthew “] Wall” Wallace
+Matthew Emerick
+Matthew McFarland
+Matthew Power
+Matthew Siew
+May Genivieve Kostroski
+McKenna Lee Unobskey
+Megan and Mikhail
+Megan Doyle Carmody
+
+Megan McFerren-Drozdalski
+
+Megan Stoll
+Meghan Lloyd
+Merlijn Eskens — Syraleaf
+Michael
+Michael
+Michael “Owlbear Cowboy”
+Kidd
+Michael C. Maroon
+Michael Cantor
+Michael De Rosa
+Michael ] Kruckvich
+Michael John Farrugia
+8: Andrew James Farrugia
+Michael Maneval
+Michael Robins
+Michael Sinclair
+Michael Stevens
+Michael Surbrook
+Michael V. Del Giudice
+Michelle Hack]
+Mike Nicole Everard
+
+Mike Emrick
+Minao Takinohara
+Mitchell Gallinger
+Morgan Westbrook
+Morgen Gregory
+Moritz Salinger
+Morten Frederiksen
+ladav Ben Dov
+ancy Feldman
+laomi Johnson
+atalie Lezmy
+natb
+
+athan Hoskins
+athan Olmstead
+athan Turner
+
+eil D. Kulevich
+cil Miller
+
+ick Trish
+
+ick Nundahl
+
+ick Peterson
+icolás y Gianni
+icole Evensen
+ikki Drewry
+Nikola Cadieux
+Nikolai Hall
+Nirven
+
+nmilasich
+
+Norah Bryant
+Nothing special
+Nova Clarke
+Octavio Arango
+Orlean
+
+Orson Cream
+Oscar Ulloa
+
+P Byhmer
+
+P. A. Mayes
+
+Pamela Digaetano
+Patrick Martin Frosz Nielsen
+Paul Baldowski
+Petri Leinonen
+Petter Wáss
+
+Philippe Lambert
+Qian Hui KWA
+Quasi
+
+Rachael McCormick
+Randy Hightower
+Rebekah Stohldrier
+Reinhard Mitschang
+Reist
+
+Revari
+
+Rhel
+
+Rhonda Bender
+Rian N. Turner
+Richard “tyrshtml” Curtis
+Richard Anderson
+Richard Gant
+Richard Stephens
+Richard Tolley
+
+Rita « Sarah
+
+River and Peregrine Pearson
+Roaringsheep
+
+Rob Barrett
+
+Rob H.
+
+Rob Wood
+
+Robb Koehler
+Robert ] Duncan IV
+Robert Schymiczek
+
+Robin Armstrong
+Robin Burzan
+Robin Wemmenlóv
+
+Rockheads Comics « Games
+
+Ronald Anthony Buening II
+
+Roz Langley
+
+Rúdiger
+
+Rukesh Patel
+
+Russ Ventimeglia
+
+Russell Akred
+
+Ryan A. Pearson
+
+Ryan Allan
+
+Ryan Carnes
+
+Ryan Porava
+
+Ryan R
+
+S8 D Ward
+
+S.C. Hartford
+
+Sally Burk
+
+Sam (Canada) Mitson
+
+Sam Bz.
+
+Sam Hing
+
+Sam Mangham
+
+Samuel Driskill
+
+Sanchini Family
+
+Sarah B.
+
+Sarah Newhouse
+
+Sarah Scholz
+
+Scott R. Krol
+
+Scott Russell
+
+Sean Stockton
+
+Seth Alcorn
+
+Shane Murphy
+
+Shane Nowak
+
+Shanna M. Plewa
+
+Shannon
+
+Shannon B.
+
+Shannon E.
+
+Shard73
+
+Shauna Forrister
+
+Shea E. Brogdon
+
+Sheridaj
+
+Shield Bonnichsen
+
+Shoggothic
+
+Silver
+
+Sparkle Magic
+
+Spencer Cotter
+
+Spuds
+
+Stacie English
+
+Stefanie Kreutzer
+
+StellarOctopus
+
+Stephanie Franklin
+
+Stephen Anthony Uy
+
+Stephen Williams
+
+Steve Lord
+
+“Steve McBurnett $e
+Jennifer Kratovil”
+
+Steve Wallace
+
+Steven K. Watkins
+
+Steven Lund
+
+Steven Maloney
+
+Steven Pattison
+
+Stevie Coelho
+
+Stuart and Stacey Geary
+
+Susan Oleinik
+
+Svend Andersen
+
+Sylvia Hiatt Maixner
+
+T. Adam
+
+Tamar Ben-Baruch
+Tamir € Dana Katz-
+Buchshtav
+Tannyx
+Tanya Itkin
+Tara Lynn Bruce
+TaRena Eric Enloe
+Tealah Hill
+Terhi Pieská
+Terry L Gilbert Jr
+The Healing Touch
+The Pfautz Family
+The Scarlet Oak, LLC
+The Wonderous KD
+Nguyen, Magician
+Extraordinaire
+Tim Campbell
+Timothy Boye
+Timothy E Barth
+Tobias “Owlbear” Drewry
+Tobias Niemitz
+Tobias Peters
+Todd B. Finney
+Todd Mico
+“Tomas Denemark
+Thomas J. Talamini
+Tracy and Nicole Vierra
+Tracy Wan
+Troy “Wrongtown” Hall
+Tule Woodson
+Tun Kai Poh
+Urist McDorf
+V.A. van der Velde
+Vic Smith
+Victoria E.S. Pullen
+Victoria Klemm
+Vitamancer
+Wade Geer
+Wesrolter
+Whitt.
+Wil McKinnee
+Wilhelm Fitzpatrick
+Will Buckmaster
+- NerdWorthy Games
+William Bennett-Parker
+William Ke
+William Moomaw
+Wilson Maruyama
+Santos de Paula
+Wi Brian Troutt
+Xanthe Trewe
+Yann Abaziou
+Yasmeen(Q,
+YarkspiriFantasyArt.com
+Yehuda Halfon
+Yuusou Amazing
+Zach Smith
+Zachary McLemore
+Zachary Mott
+Zark the Damned
+100 7719?
+
+
+--- INICIO PÁGINA 10 ---
+
+You, The Beastmaster
+
+Looking back on a long career in the trade of
+nurturing and training animals, 1 cannot define the
+exact moment l considered myself a master of beasts.
+Others 1 have spoken with tell me they look back with
+similar experience. Some were born into families with
+a tradition of monster training, while others found
+the occupation by accident or necessity. The thingis,
+if you aren't talented in monster training your career
+will be short so, by definition, there are no apprentice
+beastmasters. Everyone finds their way into the trade
+slowly, often without planning to dedicate their life to it.
+
+Unexpected exposure to monsters of the non-
+ravaging kind is a common start for those who
+become beastmasters. Whether it's gnoll whelps
+stealing apples in your orchards or minotaur calves
+in your garden maze, dealing with pests has been
+the start of many careers. Ironically, many began
+by wanting to destroy them, but after killing the
+threatening adults, they found it harder to kill their
+defenseless offspring and adopted them instead.
+
+It matters not how you became drawn to beasts and
+monsters; what matters is how it changes you. When
+you master beasts, you also master yourself. You
+teach yourself control and patience, and through you,
+the beast learns the same. Their animalistic nature
+gives way to human nature and the benefits that
+entails. Don't be fooled—it is not real intelligence,
+
+though it may seem like it, but rather a replacing of
+animal instincts with human instincts. While the
+most loyal squire is able to explain their devotion to
+their lord, the lord's mount is not. But with logic also
+comes the possibility of subversion, which is why
+most lords trust their mount more than their squire.
+To the accomplished beastmaster, the relationships
+with monsters they keep soon outshine any human
+relation they could have.
+
+Personally, I believe one becomes a beastmaster
+when mastering a beast ceases to be a means to an
+end and instead becomes the end itself. Some train
+horses so they or others may ride them. Others do
+the same with griffons, or even dragons. But they are
+never master of the beast, merely its subjugator. You
+truly become a master when the presence of the beast
+is not something you tolerate, but require; when each
+monster trained is not just another job completed,
+but a gratifying personal experience. When you reach
+that level, you will start looking for greater challenges
+and more unusual beasts worthy of your attention.
+
+Beware, though! There is a danger of falling prey
+to the lure of the animal mind. History is full of
+beastmasters abandoning their role and instead
+letting the beast master them, either by giving in to
+their animal nature and going savage, or by letting
+their charge get the best of them in one final, swift
+episode of bloodshed.
+
+
+
+--- INICIO PÁGINA 11 ---
+
+Finding Your Baby Beast
+
+If yow're looking for a new baby beast to rear, the best
+(and admittedly most dangerous) place to search is in
+and near its parents” lair. Depending on your choice
+of creature, you may face a few specific challenges:
+Some beasts are reclusive, making their lairs difficult
+to locate, while others are ferocious and willing to
+defend their homes to the death (quite possibly your
+death).
+
+It's important to know the breeding habits and cycle
+of the creature you're looking for. If you're hunting
+during mating season, as opposed to birthing or
+hatching season, you're not likely to find a new baby
+beast. You also need to understand what the creature
+eats, howit survives hatching (if it comes from an
+egg), and other incidental facts which will help you be
+a successful parent.
+
+If yow're not the adventurous sort, you can hire
+some brave soul to fetch a specimen for you, or you
+can purchase one from a breeder. Each of these
+methods has its own risks, naturally, but at least they
+don't put you in harm's way.
+
+Hiring a professional poacher means not knowing
+what you're going to get. Yes, you may tell them you
+want a blink dog pup, but unless you're very detailed
+in your description of blink dogs, you may wind up
+getting a common canine instead. It would certainly
+be within your rights to refuse payment to someone
+who doesn't bring you the right beast, but do you
+really want to argue with a person who's willing to put
+their life on the line for a bit of coin?
+
+If you can find a breeder for your chosen creature
+type, you may be able to select the precise specimen
+you desire. Not all beasts are legally traded, though,
+so if you're looking for something exotic, you may
+need to find a black market distributor. In either case,
+there's a risk that you'1l wind up with a baby beast
+who has been mistreated or beaten, which makes your
+job as a trainer that much more difficult
+
+Baby Intelligence
+
+Although l use the term “beast” to describe the
+creatures herein, they don't necessarily have animal
+intelligence. While some of the creatures are purely
+instinctual (owlbears, anyone?), others have above-
+average intelligence for monstrous creatures. Some
+creatures mentioned in this book, such as the kirin,
+gnolls, dragons, and couatls, have intellects rivaling,
+and in some cases surpassing, that of the civilized
+
+races. These creatures require special handling if you
+are to successfully raise and train them.
+
+Some of the intelligent beasts detailed in this book
+are capable of language, making them especially
+interesting cases. Whether you choose to teach the
+creature the language of its parents is up to you, but
+having the ability to speak to them in a tongue that
+is instinctively familiar to them would certainly help.
+Relationships with such creatures tend to be more
+give-and-take than they are with nonverbal beasts;
+when you're trying to train a dragon who is capable of
+negotiating, you must do more than feed it to keep it
+happy.
+
+Regardless of its intelligence, all beasts learn and
+acquire new skills throughout their lives. Teaching
+them the fundamentals—such as hunting, hiding,
+and hygiene—is important when they are young.
+Even if you plan to raise the beast as a trapper,
+guardian, or puzzle solver (in the case of sphinxes
+and minotaurs), you must not neglect to teach them
+the basics. Some beasts learn these things faster than
+others, but in all cases, advanced skills will come with
+time, so remember to be patient.
+
+Rearing A Baby Beast
+
+You've acquired your baby beast, and now it's time to
+raise it to be the helpful little minion you've always
+wanted. The first steps you take after bringing a baby
+into your custody are some of the most important
+you'll ever undertake, so don't take them lightly. P've
+seen many people try to raise a newborn creature only
+to fail miserably, sometimes catastrophically.
+
+The first thing I recommend you do before trying to
+raise your beast is to study and learn as much as you
+can about its kind. One of the biggest novice mistakes
+is to assume that all creatures are alike, when nothing
+could be further from the truth. Each baby has its
+own unique personality, and more importantly, each
+creature type responds differently to your actions.
+You may be able to raise some of the more bestial
+creatures by simply feeding them regularly and letting
+them wander around your garden, but most of the
+monsters outlined in this book are more complex.
+Before you bring your new pet home from market (or
+its lair, or wherever you happen to find it), make sure
+you understand what amenities its new home is going
+to need.
+
+I recommend you continue to learn everything you
+can about the beast throughout its childhood and
+
+
+--- INICIO PÁGINA 12 ---
+
+into adulthood. It's important to know what kind of
+habitat makes it feel most at home, what kind of food
+it prefers to eat, and how it responds to discipline.
+Many beasts have supernatural powers which also
+require special consideration. You may need to wear
+protective clothing or magic items to guard yourself
+against accidental uses of its natural and unnatural
+attacks.
+
+Once you know how to properly care for your beast,
+you'll need to put your knowledge into practice. Begin
+by establishing your role as its master (or parental
+figure if it's too smart to let you lord over it) so it
+learns to trust and obey you. Teach it basic living
+and coping skills, then progress to more advanced
+techniques as it matures. Keep in mind that not all
+creatures have the same lifespan; one beast may grow
+to maturity in a matter of years while others may take
+decades. The important thing is that you commit to
+being a beastmaster, lest you wind up with a creature
+who runs amok and leaves your home in shambles.
+
+Baby Beasts in the City
+
+Even if you live atop a tower in the woods and
+
+don't get out much, chances are you will at some
+point need to bring your baby beast to the city. If
+you're a permanent urban resident, you may already
+be familiar with some of this material, but pay
+
+close attention anyway, because this is important
+information.
+
+Most of the creatures in this book are not
+considered domestic house pets, and nearly every
+city restricts their presence in some way or another.
+Creatures who grow to large sizes or have harmful
+supernatural abilities typically require permits, if
+they're even allowed within city limits at all. Rust
+monsters in particular tend to be hazardous to a city's
+health and are rarely allowed on urban streets even
+with a leash.
+
+If your chosen beast requires a permit, you should
+carry it with you any time you travel with your pet
+inside city limits. You alone are responsible for
+the creature's actions, so if it eats an adventurer's
+horse or turns a shopkeeper to stone, you need to
+be prepared to pay for damages (and stone-to-flesh
+spells). I don't recommend taking your beast onto city
+streets until it's old enough to understand and obey
+your commands, otherwise it may wind up costing
+you a hefty sum in fines.
+
+In certain cases, you may need to demonstrate
+your ability to contain your beast and prevent it
+from rampaging on city streets. To earn a permit for
+such creatures, you need to prove your home has the
+proper safeguards in place to prevent it from getting
+loose. This may mean having dimensional anchors
+to prevent your puppies from blinking through your
+fence, stone walls to keep your rust monsters in,
+and so forth. Be prepared for routine visits from law
+enforcement to make sure all of your protective wards
+are up to their standards.
+
+Gnolls, kobolds, and other creatures are considered
+lesser humanoids under some city laws, and they
+may be subjected to slavery. If you're rearing such a
+creature in one of these cities and you wish to keep
+your baby, be prepared to disguise it. As newborns,
+they may be easy to pass off as puppies or lizardlings,
+but as they age and begin walking on two feet, you'll
+need to use better techniques. l suggest investigating
+magical disguises or steering clear of rearing these
+humanoids in urban areas entirely.
+
+Training Your Beast
+
+After showing your baby the basics, you'1l want to
+teach it new skills, unless yow're content with having
+a pet who is dependant on you and unable to do
+anything in return for your years of rearing, in which
+case you're probably better off buying a traditional
+
+
+--- INICIO PÁGINA 13 ---
+
+house cat. Having a well-trained beast who can
+perform unique tricks is the primary reason anyone
+becomes a beastmaster to begin with.
+
+Before you begin teaching your beast new skills,
+consider its strengths and weaknesses. You're
+probably not going to have much luck training a
+minotaur to stealthily pick a lock, but training it to
+chase intruders around your hedge maze would be
+right up its alley. Likewise, a kobold makes a poor
+drawbridge guardian, but it does make a fantastic
+scout. By training your beast to work to its strengths,
+you'll have a much easier job.
+
+Even though some creatures are fierce and
+instinctual predators, you should resist the urge to
+punish them harshly during training. One school of
+thought tells beastmasters to whip and starve their
+beasts in an effort to make them more ferocious. Be
+warned: Such techniques often lead to uncontrollable
+beasts with an appetite for their master. Instead, try
+using positive reinforcement to reward good behavior.
+Your pet will not only be more willing to listen to you,
+it will be more capable of learning the tricks you're
+trying to teachit.
+
+Rewarding good behavior is a key element to
+rearing baby beasts. When teaching them a new trick,
+give them a tasty treat (or shiny trinket for some
+creatures) to assure them what they did was correct.
+At the end of a long day of repetitive activities,
+consider grooming or singing to them; you'll form
+a tight bond with your pet and it will be more likely
+to work with you in the future. This is especially
+important for anyone rearing a beast to be a guardian;
+the last thing you want is for a disgruntled cockatrice
+to turn you to stone when you least expect it.
+
+Beasts as Mounts
+
+Il once knew a dwarf named Torvald Gloryhammer
+who decided he wanted to raise a grey render so he
+could ride it into battle. Despite the bond he formed
+with the beast, its giant two-legged form just wasn't
+designed for the task. Several cure spells and a long
+recovery period later, Torvald decided his next mount
+would be a warhorse instead.
+
+Let this be a cautionary tale. Many trainers get
+into the business of raising baby beasts for the sole
+purpose of one day using it as a mount, but they don't
+always know what they're getting into. Not every
+creature makes a suitable mount, so remember to do
+your research before making your selection.
+
+You need to consider your potential mount's
+
+suitability for bearing a rider. Blink dogs, for example,
+make terrible mounts—you only get about three feet
+(1 m) before they go ethereal and you wind up on the
+ground. Sphinxes tend to be too smart and proud to
+let anyone ride them, and gelatinous cubes... well,
+let's just say if you can train a gargantuan blob of jelly
+to be your ride, P'll eat my hat.
+
+Some mounts are challenging to train but worth the
+effort. It can be difficult to get all three of a cerberus”
+heads to cooperate, but if you can train one to carry
+you into battle, then you have a strong ally on your
+side. Many dragons can be convinced to bear you
+as a rider, but they can be finicky and often require
+something in return. Finally, nightmares, with their
+flaming hooves and smoking nostrils, while some
+of the coolest and most terrifying mounts on the
+battlefield, are as ornery as a wild stallion and twice
+as difficult to domesticate.
+
+Once you've chosen a suitable species to be your
+mount, make sure you commit to training it for this
+purpose. Not all beasts are naturally inclined to let
+someone ride atop their back and charge head-first
+into a horde of orcs. It takes planning, practice,
+and patience to raise your baby for this task, so if
+you're not up for it, then perhaps you should choose
+a simpler trick to teach it, such as rolling over or
+fetching sticks.
+
+Stages of Development
+
+There are three main developmental stages for beasts:
+baby, juvenile, and adult. Some naturalists further
+separate these into smaller categories; 1 found 42
+Molting Patterns of Phoenixes, written by Janni
+Aldan Cindersson, to be particularly fascinating, but I
+feel that any more than three is just splitting hairs.
+
+Babies represent the youngest of a creature's”
+specific species, but that doesn't necessarily mean the
+beast hasn't lived for several years. Humans may only
+take 18 years to transform from infants to adults,
+but for a dragon that's barely enough time to be even
+considered a juvenile. Kobolds, meanwhile, reach
+maturity in a matter of a few years, so they're only
+considered babies for the first several months of their
+lives.
+
+It's during this stage that you must train your beast
+to have good habits and be obedient. If you don't,
+they tend to become juvenile delinquents, and nobody
+likes a sphinx with an attitude or a cerberus who
+can't sit and stay. Obedience training is particularly
+difficult because every creature responds differently
+
+
+--- INICIO PÁGINA 14 ---
+
+to various stimuli: Minotaurs require a firm, some
+say aggressive, hand, while treant saplings tend to
+listen as long as you give them plenty of water and
+sunshine. If you find one tactic isn't working, reread
+my entry on the beast to see if you can get an idea for
+their personality, and modify your tactics accordingly.
+At the juvenile stage, your beast is mostly self-
+sufficient but still requires guidance and supervision.
+If you've been doing your job as a parent, they may
+survive on their own in the wild, but this is the
+stage where you can teach them new tricks that
+aren't essential to their survival. Juveniles may be
+intelligent enough to learn several new nonessential
+skills, which tends to be the goal of most beast
+trainers.
+
+When your beast reaches adulthood, it should be
+able to be wholly self-sufficient. If you were to keel
+over dead one day, it would be able to continue living
+without you, but ideally you'll live a long and healthy
+
+life alongside your pet. Some long-lived species
+(such as treants and dragons) may outlive their
+masters, so it's important that you raise them to be
+high functioning adults who will take care of your
+descendants. Other, shorter-lived species only last a
+few years, so you need to get used to rearing and re-
+rearing these types of pets.
+
+Protecting Your Baby Beast
+
+As much as you need to protect the rest of the world
+from your monster-to-be, you need to protect your
+baby beast from the outside world. Even a creature as
+powerful as a dragon is susceptible to poachers and
+slavers when it is young and helpless. It's important
+to know the risks associated with raising a baby beast
+and what you can do to keep it safe.
+
+All baby beasts can fetch a price on the market (or
+black market, if they're prohibited), but rare and
+exotic creatures come at a premium. That means
+
+
+
+--- INICIO PÁGINA 15 ---
+
+the rarer the creature, the more likely you are to
+encounter someone who's willing to do anything
+
+to take it from you. Thieves might be interested in
+selling your baby for a small fortune, but if your
+creature is known for having potent alchemical
+components, it could be poached for its parts.
+Phoenix feathers, minotaur horns, dragon scales,
+and treant sap are just a few alchemical components
+poachers desire.
+
+When your baby beast is young, it is important to
+keep a close eye on it. If you have the magical means
+to create a sleepless guardian to protect it, you should
+do so no matter the cost. If not, spend as much as you
+can afford on guards, wards, walls, and locks to try to
+keep poachers away. Avoid hiring someone to protect
+your beast if possible; 've found you can't trust
+people who are willing to put their lives on the line for
+a bit of money.
+
+Once your beast is a bit older, it may be able to
+defend itself, but that doesn't mean you should
+leave it alone. I recommend using a leash (if your
+beast doesn't violently protest) while in public so
+others know, without a doubt, the creature is yours.
+Should poachers attempt to take your pet anyway,
+it's important to remember that you may use force
+to protect it. If you're not the sort to do that, then
+ignore what 1 said earlier about hiring sellswords,
+but remember to use them only with constant
+supervision.
+
+Returning a Beast to the Wild
+
+If you've decided beast training just isn't for you, or
+if your pet has destroyed too much of your property
+to keep it around, you may choose to return it to the
+wild. Remember that, like any domesticated creature,
+a beast raised by anyone other than its natural
+parents is vulnerable to the outside world. It needs to
+have the knowledge and tools necessary to be able to
+effectively live on its own, otherwise you're dooming
+it, and that wouldn't be very responsible of you.
+
+If your beast has relied solely on you for its food,
+you need to teach it how to hunt and forage in the
+wild before you can release it. If you don't, it may
+be unable to feed itself without finding a humanoid
+population to satisfy its needs. Generally speaking,
+by the time your beast is a juvenile, it should have
+learned the skills it needs to fend for itself. If yours
+hasn't, you may need to spend additional time helping
+it become self-sufficient.
+
+Depending on your beast, it may be a boon to
+the local ecology when you reintroduce it to its
+natural habitat. Some creatures help maintain local
+populations of secondary consumers or predators,
+while others are... well, let's just say your pet might
+be one of those secondary predators. In either case,
+unless you're releasing an abundance of creatures into
+the wilds all at once, which may unbalance the local
+ecology, you're probably doing a good thing for the
+environment by lettingit go.
+
+Of course, you need to know just where to release
+your pet. Some creatures are solitary mountain
+dwellers, for example, so releasing them into an
+overcrowded forest may have undesired effects. If it's
+a top predator, it may devastate the population of
+local prey animals. On the other hand, if it is released
+into an environment where it has no natural prey, it
+may starve to death. Be mindful of when and where
+you release your pet if you want it to survive and live
+along, healthy, environmentally friendly life.
+
+11.
+
+
+--- INICIO PÁGINA 16 ---
+
+Base! Difficulty,
+Extremel y Difficult
+
+Intelligence
+
+BASILISK LIZARDLING
+
+Clever
+
+WARNING: Extremely Dangerous
+
+Some local legends claim that the first basilisk
+emerged from a lizard's egg that was turned to stone,
+then incubated by a cockatrice; quite ridiculous if you
+ask me because it does not work. The basilisk, often
+confused for the cockatrice, is a lizard-like creature
+with eight small legs, armed with a powerful grinding
+jaw and a gaze that can turn its prey to stone.
+
+What is known for certain about them is that they
+are deeply connected to the minerals that compose
+their nest. This is demonstrated by their habitat choice,
+eating tendencies, mineral scent and even the mineral
+their victim is transformed into. Most varieties will
+turn their victims to slate, sandstone or granite, but
+there are rare cases where 1 have seen basilisks turn
+their victims into jade, lapis and even obsidian. No
+matter what, they make stunning statues out of any
+living thing.
+
+Egg Care
+
+Basilisks lay their eggs bi-annually in pure mineral
+deposits. The eggs blend into their surroundings
+
+with matching colors and shapes, making them very
+difficult to locate and identify, and are almost as hard
+as the rocks themselves. This serves to protect them
+if stepped upon, although this probably wouldn't help
+under the feet of a giant.
+
+The nest is mixed with similar sized stones to
+provide both food and camouflage for the hatchlings.
+If you have obtained multiple eggs, 1 recommend that
+you separate them and pack them inside a barrel of
+stones that match the mineral of the egg and nest.
+
+Tf this is not done, or a blend of minerals is used, the
+emergent lizardling will be weaker than its potential.
+Upon hatching, basilisk lizardlings immediately
+
+begin consuming both the stones and eggs aroundit,
+ensuring that only the strongest of the clutch survives
+(hence the need for separating the eggs).
+
+General Care
+
+Despite their small size when hatched, basilisks
+
+are very hungry and very dangerous. Their stone-
+turning gaze is functional upon hatching and cannot
+be disabled, so by far the best method to handle
+basilisks is to be fully prepared with safeguards
+against petrification. 1 strongly recommend keeping
+the creature in an isolated pen where it can hunt and
+
+124
+
+explore without posing a threat to anyone outside the
+pen, unless that is intentional...
+
+Although the basilisk can eat various raw minerals
+and stones, itis far more nutritious for them to feed
+upon prey they've turned to stone. This is important as
+it will affect both the basilisk's growth and the strength
+of their gaze. Some trainers do this to intentionally,
+weakening the gaze so that less precautions are
+required to handle and train it. The problem with this
+practice is that it stunts the growth and power of the
+basilisk's gaze, which grows more powerful with age. It
+also leaves you with a hungry, upset basilisk who will
+take any opportunity to turn on its trainers.
+
+Training
+The best way I can describe a basilisk's gaze is that of
+a continuous ray, radiating from their eyes which can
+never be disabled or turned off. This coincidentally
+makes it easy to track the beast by just following the
+zig-zag of petrified matter. However, its gaze is still
+dangerous and very lethal. When working with a
+basilisk, it is important to wear protective gear and to
+keep a fail-safe nearby. My recommendation is to use
+goggles with petrified amber lenses, and a travel cloak
+that completely covers the skin with the stoneskin
+spell cast upon it. It does not matter whether it's
+permanent or not as the spell should last you a number
+of hours, however spellcasting fees do to add up, so the
+enchantment may be a more affordable option. As for
+the fail-safe, 1 recommend a spellcaster or potions to
+revert any damage that the basilisk may cause during
+training.
+
+Both solitary and very temperamental creatures,
+basilisks have no conception of hierarchy making
+training a very difficult and drawn-out process that can
+take upwards of three to five years. Don't feed it prior
+to any training exercises and utilize its favorite snacks
+to reward good behavior, though don't expect too much
+in the early years. When you start, you may need to
+be a little forceful as basilisks do not initially respond
+quickly or well to verbal feedback.
+
+Once during my travels 1 met a young wizard rearing
+her own basilisk, whose gaze turned objects into rose
+quartz. For special guests she would gift a rose turned
+to quartz; 1 still keep a beautiful example with me on
+
+my travels.
+
+
+
+--- INICIO PÁGINA 17 ---
+
+
+
+--- INICIO PÁGINA 18 ---
+
+BLINK PUPPY
+
+This distinct dog breed is easily recognizable by
+uniquely glossed eyes, lovable demeanor and,
+obviously, its ability to teleport (otherwise known as
+blinking) from place to place. Of course, this is only the
+face their owners see; enemies can expect to be greeted
+with snarling jaws and plenty of unexpected attacks.
+Blink dogs are feared for their unanticipated assaults,
+blinking in to take a bite out of their prey, only to
+teleport away to safety. Blink puppies fetch quite the
+ransom on the black market, so poachers are known to
+go to great lengths to grab them.
+
+When a female blink dog is in heat she creates a scent
+trail, teleporting from spot to spot, leaving a sort of
+scavenger hunt for the male to follow. Only the most
+diligent suitors with the strongest noses and keen
+sense of teleportation will find the female waiting in a
+dark cave for her suitor to arrive. Though no one has
+actually witnessed blink dog mating, those who have
+seen the cave from afar note the firework-like flashing
+that occurs.
+
+The gestation period lasts three months, resulting in
+a litter of two to five puppies. When they are born they
+fit in the palm of a hand, not opening their eyes for at
+least four days. Once they do, they instantly imprint on
+the first being they see, showing them extreme loyalty
+for the rest of their lives. In most cases, this loyalty
+imprints on their parents and the other puppies,
+creating an instant familial bond. However, this is the
+primary reason why poachers crave newborn puppies,
+placing them in a dark box so that they can bond with
+the highest bidder.
+
+For the first few months, both parents reside in the
+cave until the pup is old enough to run on its own.
+During this time, the parents are fiercely territorial,
+even showing a defensive hostility to members of
+their own pack. There have been several instances of
+passersby who have been severely mauled for passing
+too close to a blink dog cave that had newborn pups
+inside. Only when the pups have grown into their full
+range of motion and coordination do the parents rejoin
+their pack and return to their mostly-nomadic lifestyle.
+
+General Care
+
+Rearing blink puppies is a difficult but rewarding duty.
+With enough love and care, the pup can grow into a
+part of any family; one that, even if they teleport away,
+
+14.
+
+Rearing Difficulty
+ricky
+Intelligence
+Intelligent
+
+they"1l always return to. The job is made easier if the
+pup has imprinted on their owner, intensifying their
+connection and affection for them.
+
+While blink puppies are capable of eating either meat
+or plants in their diet, many breeders have actually
+found a connection between diet and attitude. Raw
+meats tend to make them aggressive while a purely
+vegetarian diet will make the blink dog completely
+docile. 1 expect that a majority of you are expecting to
+have the blink dog accompany you on your journeys so
+it is recommended to ensure a balanced diet.
+
+To give one a bath and wash away the dust and dirt,
+one only needs to get them into the water. Their fur is
+quite thin, and just a little dousing is enough to fully
+clean them off. Getting them wet is the problem, since
+their teleportation abilities are innately connected
+to their instinctive reactions. Their blinking makes
+playing fetch a breeze and makes avoiding their licks
+much harder, but bath-time can take all day. Blink
+puppies actually like to be dirty for some reason, too,
+always rolling around in the nearest patch of mud.
+
+Training
+The biggest question owners get is, “How do you keep a
+blink puppy from running away?” Getting a regular dog
+to stay still while attempting to train itis hard enough,
+but one that can teleport anywhere they can see? You
+can't cage them and you can't leash them, but there is
+a thing called a temporal leash, an especially expensive
+item usually sold at an exorbitant up-charge when
+purchasing a blink puppy. The leash is placed around
+the puppy's neck and a control bracelet around the
+owner's wrist, keeping them from going too far before
+hitting an invisible wall. It is a small price to pay for the
+security of one's furry child.
+
+Owners should always keep an eye out for people
+watching when their dog blinks. The sight can startle
+the unexpecting and entice the unsavoury. Poachers
+are everywhere, and even though newborns are ideal,
+unscrupulous patrons will still pay good money for
+adolescent or adult blink dogs if they can get their
+hands on them.
+
+Living conditions for captive puppies are often
+terrible, as they are confined to dark, stifling
+crates awaiting new owners to bond with.
+
+
+
+--- INICIO PÁGINA 19 ---
+
+
+
+--- INICIO PÁGINA 20 ---
+
+BULETTE BILLY
+
+Bulettes, also known as land sharks, share both
+
+size and appetite with the largest of their ocean
+namesakes. Their ability to swim” through the ground
+gives them a huge advantage in hunting, as they
+burrow beneath their prey and pounce from below,
+leaving victims unaware until attacked or swallowed
+whole. If challenged, their armored hides give them
+effective protection until they have a chance to dive
+back into the earth.
+
+This burrowing, along with their love of humanoid
+flesh, makes bulettes difficult to study in the wild.
+Several academics speculate about how these beasts
+reproduce, but none has any hard evidence to support
+their theories. My own experience with them has led
+to the following conclusions.
+
+The female lays her eggs in a pocket of earth laced
+with a musk to attract bulls. Once a bull finds this
+he will fertilize them and then store the eggs in a
+special pouch near the base of the tail. Gestation lasts
+approximately 16 to 18 months, whereupon a single
+bulette billy will emerge. Though several egg pods are
+laid, the strongest hatchling consumes the others as
+soon as it emerges. Once large enough to crawl out of
+the bull's pocket the pup is left to fend for itself.
+
+The smallest billies recorded measure 1-% feet (0.5
+m) long and are deceptively heavy, at around 100
+pounds (45 kg). Even a few hours after emerging their
+hides have hardened enough to protect them from the
+jagged rocks they will encounter while burrowing.
+
+General Care
+
+Rearing a bulette billy is a monumental task. Not
+only are the beasts large, they are unpredictable and
+quick to forget training if left unpracticed. Once you
+acquire your baby bulette, be it by trapping or from
+the corpse of a carrying bull, you will find that they
+are quite snappy yet very impressionable and eager to
+please an owner who feeds them.
+
+Raising a bulette billy is similar to raising a puppy,
+albeit a huge, terrifying, burrowing, carnivorous and
+destructive puppy whose grooming gear was designed
+by dwarven miners.
+
+Bulettes prefer to eat live prey in great quantities.
+When young it's fine to feed them chickens and other
+small farm animals, however as they grow larger you
+
+16.
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+Instinctual
+
+will find that they prefer the taste of humanoid flesh.
+If you find it distasteful to provide them such fare,
+you may choose to substitute horses and livestock
+instead, but be warned that there's a reason many
+bulette trainers have wooden legs.
+
+Though unpredictable, billies are not uncontrollable.
+Many attribute their erratic behavior to their lack
+of parental guidance, and billies raised in captivity
+have been seen to exhibit great restraint, especially in
+attempting to feed on nearby halflings. The important
+thing to remember with a billy is consistency: Regular
+feeding schedules, bedtimes, and grooming sessions
+provide a structure to their life that diminishes the
+urges that come from life in the wild.
+
+Grooming your billy is simple if you have access to
+a large body of wet sand, or volcanic pumice. Coaxing
+your billy to swim through these materials will scour
+away dirt and loose shell plates, and help remove any
+parasites that may have become lodged in the places
+you can't reach with a grooming chisel.
+
+Training
+Though dangerous, rearing a bulette billy is an
+intensely rewarding experience. The most important
+thing I would reiterate would be to maintain
+consistency in their daily habits.
+
+The trickiest part about owning a billy is the use of
+its extraordinary burrowing ability, as it can cause
+lots of damage, and panic, in any urbanized region.
+Consider drilling a hole through the rim of the
+head-shield (don't worry, it won't hurt them) and
+anchoring them with a long steel chain attached to
+a well-sunk metal pole. You can then train them to
+respond to depth commands with taps on the chain
+and reward them by hiding bits of food at those
+depths for the bulette to find. Invest in magical
+digging equipment or X-ray vision devices to help you
+locate a sulking or sleeping billy, and try dragging
+a log behind you to distract a playful critter from
+targeting your ankles.
+
+Due to the bulette's enormous size and feated
+predatory dominance (and, frankly, their shape), many
+believe that consuming particular organs will serve as
+fertility enhancers. These organs fetch high prices in
+various “specialty” markets so be waty of poachets.
+
+
+
+--- INICIO PÁGINA 21 ---
+
+
+
+--- INICIO PÁGINA 22 ---
+
+CENTAUR FOAL
+
+The lives of centaurs revolve primarily around their
+extended families. Each herd is comprised of several
+adult females (known as mares) their offspring,
+
+and younger males. The adult males (known as
+stallions) stake out a territory around the edges of
+the larger tribal lands and function as border guards
+and buffers to the outside world. When it nears
+
+the mating season, once every five years as marked
+by the constellations they hold sacred, the various
+tribes come together and hold a Naadam, a sort of
+highly-cultural tournament. However, it is far more
+nuanced than any elvish tradition that 1 have ever
+encountered. Lasting for an entire month, the event
+is composed of various tourneys where the stallions
+compete against each other in poetry, hunting,
+archery and carving in addition to games of strength,
+wits and endurance. Some of the races continue for
+
+a day and a night, and itis a humbling sight indeed,
+to see a field of strong young stallions wobbling like a
+foal from exhaustion. Their dances are awe-inspiring
+as well, with the massive creatures leaping high into
+the air so that the earth shudders at their landing.
+Yet do not think centaurs mindless - their riddles and
+labyrinths would put our most revered elders to the
+test. Although there is no single decisive winner of
+the event, it is the time where the mares pick their
+partners based on the performances they enjoy most.
+They present their chosen stallion with gifts of food,
+hand-made sashes and decorative ornaments. The two
+centaurs perform a sacred marriage rite and are then
+bonded for life. The new husband spends an entire
+lunar cycle with their bride, then returns to the outer
+tribes, finding opportunities to visit their children
+and wives whenever possible.
+
+Pregnancy lasts for 16 months, after which the
+mother's herd prepares a secure place with plenty of
+straw, water and blankets. The eldest females assist
+with the birth while the younger family members
+walk a vigil around the birthplace, singing songs and
+making gifts for the young foal. Unlike horses or
+humanoids, centaurs are not born head first; their
+unique anatomy has the infant emerge horse-chest
+first, with the human torso laid across its back, so the
+head and rear hips appear together. A most unusual
+and privileged sight!
+
+18.
+
+ps Difficulty
+asy
+
+Intelligence
+Civilized
+
+General Care
+
+Centaurs are omnivorous, though they tend to
+prefer a vegetarian diet, leaving cooked meats for
+special occasions. Unlike horses, a centaur cannot
+walk within hours of birth. It takes until it is about
+a month old to get its legs under it. Once the foals
+find their walking legs, though, they quickly pick up
+running as well, though they tend to trip over their
+own feet until they can master their hooves. Even
+more so than human babies, centaur foals bounce.
+Their hair also grows much faster than that of a
+human, producing full manes and tails by 6 months
+old.
+
+Now it's important to remember that although
+a newborn centaur may have the appearance of a
+5-year-old human, they have not developed any
+language skills, which they acquire at the same
+rate as humans. Instead of making the baby noises
+commonly recognized by humans, foals make a soft
+whickering noise most pleasant to the ear.
+
+Once they hit puberty, all fat is shed, and the
+centaur becomes a lanky, gangling tangle of limbs.
+Both sexes are subject to violent mood swings and
+physical impulses. A frequent pastime involves
+wrestling with arms and forelegs by rearing up.
+Once, I was caring for a set of twins and was nearly
+trampled on a daily basis! Although young, they are
+stronger that you think, so expect buffeting and
+bruises from even the calmest foal.
+
+Until they reach 9 years of age, the children are
+cared for by all the mothers of the tribe. When
+they have their first coming of age ceremony, the
+adolescents begin to learn the more mature aspects of
+their culture. Mares will remain with their mother's
+herd, raising their children next to their siblings and
+cousins. Stallions will begin spending time with adult
+males, learning how to patrol and mark territory up
+until they reach sexual maturity, at which point they
+will claim their own land and prepare to compete for
+female attention at the next Naadam.
+
+Pregnant centaur urineis highly prized on the black
+market due to its use in gender-changing spells and
+potions for postmenopausal women. It is usually
+consumed in powdered form. Care should be taken,
+as some individuals react to its ingestion by growing
+
+along, silky mane down the length of their spine.
+
+
+
+--- INICIO PÁGINA 23 ---
+
+
+
+--- INICIO PÁGINA 24 ---
+
+CERBERUS PUPPY
+
+Known forits multiple heads, monstrous size and
+loyal, possessive nature, a cerberus resembles a very
+large mastiff with three heads conjoined at the base
+of its neck. Typically standing between 6-% and 7 feet
+tall (2 meters), these canines are fiercely territorial
+and are vicious hunters. Capable of using each head
+independently for keeping watch, a trained cerberus
+makes a marvelous guard or loyal hunting companion.
+
+During the mating season, males will wander their
+vast territories in search of a female, sometimes
+travelling up to 80 miles (129 km) in a single day.
+When the male comes across a female in heat, he will
+alert her to his presence by giving a warbling sound
+from his throats. Should the female be receptive to his
+advances, she will return the call and approach him.
+Often, a mating pair will stay together for several days,
+hunting and mating until the female grows bored and
+forces the male to leave.
+
+When she is ready to give birth, a pregnant cerberus
+will seek out a suitable den and make a nest out of
+nearby plant material, typically out of branches and
+tall grasses. She will also ensure that the entrance of
+the den is hidden and/or masked to protect her pups
+from any would-be predators. A female cerberus will
+generally give birth to between two and four pups,
+though normally only one or two will survive the
+first few weeks due to the fierce competition for their
+mother's milk.
+
+General Care
+
+As carnivores, cerberi eat meat as fresh as they can
+
+get it but, if raised from a pup, they will tolerate some
+forms of cooked meat and fish. Fully grown cerberi,
+even those that are domesticated, prefer to hunt for
+their own food. This should be encouraged as much
+
+as possible to ensure that none of the heads become
+bored, as this often leads to destructive behavior. Think
+
+- L
+Cerberi can survive the loss of either outer head,
+should they not succumb to infection or blood
+loss, but not the removal of the central head. An
+old demon hunter 1 once knew cauterised the
+stump of his loyal, wunded companion with the
+only thing he had available, his metal holy symbol.
+Forever after, the missing head would reappear as
+a burst of eldritch green flame whenever demons
+
+| Were near.
+
+Rearing Difficulty
+ricky
+Intelligence
+Clever
+
+one gnawing head is bad? try three!.
+
+When raised from a pup, a cerberus is an intensely
+loyal companion, sharing many of the characteristics
+of a domesticated dog including tail wagging, barking,
+and playfulness. In this sense, a domesticated cerberus
+is very much like a large, intelligent, three-headed
+Collie. General care and grooming is very much the
+same as with other domesticated dogs, albeit on a
+much larger scale. Care must be taken to ensure that
+the space between each head, where fleas and other
+parasites can nest, is kept clean; the cerberus cannot
+reach these areas easily by itself. Regular baths, both
+in water and in dust, are an important part of bonding
+with a cerberus, as this is normally when the creature is
+most relaxed.
+
+Training
+
+Training a cerberus can be a challenging task,
+particularly when the creature is still quite young.
+Although slightly more intelligent than most
+domesticated dogs, you must have the attention of all
+three heads for any training exercise to be successful,
+otherwise the effort will be wasted as the unengaged
+heads will distract those that are paying attention.
+This is particularly important when playing games
+like fetch, as all three heads will compete for the same
+object even if there are enough objects for each head.
+
+Basic training for simple commands should begin
+when the puppy is approximately 16 weeks old. By this
+time, the puppy should be fully weaned and moderately
+house-trained. As with domesticated dogs, one-word
+commands will work best, as the puppy is less likely
+to become confused. As the puppy grows older, more
+complex commands may be taught, though these
+should be limited to simple statements or sentences
+to ensure that they are fully understood. Some cerberi
+can be trained to accept a command to each head
+separately, though this training technique is extremely
+
+difficult.
+
+Although no one knows the true origin of cerberi,
+it appears they first emerged from the nine layers
+of Hell. Early stories of the cerberus told of it being
+able to sniff out spirits and bring them back to the
+layers of Hell, or consume them, depending on the
+story. If true, one should be able to train a cerberus
+to track or detect undead spirits.
+
+20.
+
+
+--- INICIO PÁGINA 25 ---
+
+
+
+--- INICIO PÁGINA 26 ---
+
+CHIMERA CUB
+
+A winged beast with the heads of a dragon, a goat,
+and a lion, the chimera is considered by many to
+
+be a naturally evil creature. While dangerous, the
+chimera is no more temperamental than your average
+bear; territorial, occasionally aggressive, with no
+qualms about hunting humans and livestock as
+needed. Competing biannually for mates, both male
+and females vie for prime territory and partners.
+Consistent victors of either sex will often pair up for
+the mating seasons. During the gestation period,
+mated pairs will live within the same territory, as the
+male will hunt, bring food, and defend the pregnant
+female who is unable to fly during the later stages of
+pregnancy.
+
+Typically chimerae only bear one pup, but in the
+event of twins the weaker sibling rarely survives to
+adolescence. Chimera pups are weaned from their
+mother after three months, during which time the
+father will continue to care for the female and the pup.
+Once the pup has been weaned, the mother leaves the
+territory for a hunting spree, regaining her strength,
+while the male chimera remains with and cares for the
+pup until its adulthood. Chimera pups also fledge at
+this time. Male chimera will not leave their pup alone
+during this period, taking their offspring on hunting
+expeditions. This serves a dual purpose: Young chimera
+learn first by example by watching their father hunt,
+and the father can protect the young from other adult
+chimera that would otherwise target and kill them.
+
+The chimera's three heads are observed to behave
+more like three siblings when they are newborn
+and adolescent, often snapping at each other and
+competing for food. During the young chimera's time
+in its father's care, it learns to hunt and fight using
+its three heads in concert. The adult male begins by
+showing his pup how to fly and hunt, supplementing
+these expeditions with play that emulates combat.
+Finally, he will supervise his pup as it brings back prey
+of its own. Adolescence lasts from two to three years,
+after which the young chimera finds new grounds in
+which to hunt.
+
+Chimera exhibit minimal sexual dimorphism;
+females are slightly larger, whereas the male have
+slightly more lustrous wings, which appear gold in
+contrast to the female's brown feathers.
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+Clever
+
+General Care
+
+Chimera are born very small, only about the size of a
+goat, but grow quickly, reaching 12 feet (3.6 meters)
+after the first year. The first signs of a mane will
+
+begin appear on the lion head after 8 months, a good
+indicator of its health and age. At 16 months, the
+wings become fully-grown and functional. Typically
+the parents will aid in the cleaning and preening until
+the individual heads have sorted themselves out; with
+them out of the picture you will have to assist the pup.
+
+With the rapid growth comes a voracious appetite. To
+make matters even worse, each head feels that they're
+hungry independently, causing them to snap and
+fight with each other over food, fresh meat. I honestly
+recommend you not break the heads up and let them
+fight, as this helps define each of the personalities
+of the heads and also helps the chimera realize itis a
+single creature with three heads working together.
+
+Training
+Chimera, like many animals, are capable of imprinting
+if they are found very young. However, only chimera
+pups who are orphaned or stolen before they wean—
+within the first three months—will be capable of being
+truly trained. At this juncture, a human caretaker must
+emulate the mother's behavior. Infant chimera can
+survive on goat milk supplemented with herbal magical
+components, and they should be bathed with wet
+cloths and held in warmed blankets during this period.
+Chimera pups that are taken in before maturation but
+after the weaning period can be trained to a point, but
+they will always be mostly feral.
+
+Chimera are not truly sentient, but they are cunning
+and intelligent hunters. If left unsupervised and
+without ample exercise, they are likely to become
+destructive. Chimera pups need play, much in the same
+way as other young predators, to emulate combat and
+hunting. It is inadvisable for a human to roughhouse
+with a young chimera without proper precautions, as
+the chimera's dragon head is capable of breathing fire
+within the first year (which nearly blew my head off
+last spring).
+
+Unlike mundane lions, both female and male
+chimera grow full manes on their lion heads.
+
+2d
+
+
+--- INICIO PÁGINA 27 ---
+
+
+
+--- INICIO PÁGINA 28 ---
+
+COCKATRICE CHICK
+
+Rearing Difficulty
+Extremely Difficult
+
+Intelligence
+lever
+
+WARNING: Extremely Dangerous
+
+“A unique creature that is both cockerel and serpent, the
+cockatrice has a deceptive appearance. Its apparent lack of
+natural weapons would lead one to look upon its beautiful
+plumage and fantastic scales, but such activity would be folly.
+Gazing upon the cockatrice is harmless, but be careful not to
+stare, for ifit turns its eyes back to you, it will surely turn you
+to stone.”
+
+is popularly believed that the cockatrice is the result
+of some wizard melding magic with nature. Oddly
+flexible creatures, the cockatrice can lay its own eggs
+or steal the eggs of serpents or fowl to hatch cockatrice
+chicks. What makes the creature most fascinating is its
+ability to acquire traits, and sometimes abilities, if the
+incubating creature is a magical reptile of some sort. 1
+once acquired a cockatrice egg incubated by a couatl;
+the cockatrice 1 reared had beautiful rainbow scales
+and plumage and even was capable of magical abilities,
+albeit uncontrolled and sporadic.
+
+Egg Care
+
+If you have obtained a cockatrice egg, the easiest thing
+for you to do is to let a chicken incubate it for you; it
+does not have to be a chicken but they are the easiest
+surrogate to come by. If you are adventurous, find
+some magical reptile or bird and have it incubate your
+egg. If you happen to have a willing dragon or phoenix
+lying around, it would be particularly helpful for you to
+document and share your results.
+
+General Care
+
+As cold-blooded creatures, cockatrices need external
+warmth to regulate their body temperature, which
+makes them poor candidates for livingin the depths of
+a dark dungeon. They do, however, make great outdoor
+watch-pets.
+
+A chick's stony gaze isn't as immediately deadly as
+an adult cockatrice's, but 1 still advise you keep your
+other animal companions and familiars out of their
+line of sight. Oddly, the creatures do not actually feed
+on stone, but they do seem to admire their petrified
+creations. More intelligent cockatrices have been
+observed to bait their victims into forming silly poses
+before permanently turning them into commemorative
+
+24.
+
+figurines for their nests.
+
+Contrary to what many believe, the cockatrice's
+diet consists of very few minerals. The beasts prefer
+to eat eggs, especially other cockatrice eggs, and
+it is important to keep a healthy supply on hand.
+Thankfully, chicks only eat about one meal per day,
+but expect their appetites to increase as they reach
+maturity.
+
+Training
+
+Rearing and training a cockatrice chick is difficult and
+dangerous work, but unlike the basilisk the cockatrice
+is capable of controlling its gaze ability. The beasts are
+lazy and self-serving, and all they have to do is look at
+you funny to make you stop what you're doing. If you
+can manage to raise a chick to adulthood and get it to
+do what you want, you'll have a fantastically powerful
+pet (and a lot of spare statuary to sell).
+
+There are three essential items to possess to
+successfully train a cockatrice: a mongoose (for keeping
+itin line, as they are immune to the gaze), a pair of
+petrified spectacles (to limit exposure to their gaze),
+and a stockpile of stone-to-flesh potions. If you can
+train the mongoose to administer the potions, all the
+better.
+
+When training a cockatrice, be cognizant of their
+feelings. As the chick becomes bored, tired, or
+frustrated, it may demand more sun or leisure time.
+Not giving in to the chick's demands could spell bad
+news for you and those around you. Though it may
+seem like placating the creature is counter to your
+ability to control it, a relationship with a cockatrice is
+more like an agreement to cohabitate than a master-
+pet arrangement.
+
+a L
+
+Alchemists prize the cockatrice for its ability to
+transmute living material into minerals. Many
+believe it is possible to raise a cockatrice capable
+of turning flesh to gold, but the precise chicken-
+reptile pairing has yet to be discovered. Although
+many alchemists continue to raise cockatrices for
+their own experiments, many have given up this
+pursuit in favor of rearing basilisks, with a similar
+goal in mind.
+
+
+
+--- INICIO PÁGINA 29 ---
+
+
+
+--- INICIO PÁGINA 30 ---
+
+COUATL NEONATE
+
+Naturally gifted with telepathy and planar
+teleportation, couatl are capable of powerful magics
+and associated with natural phenomena such as
+hurricanes and rainbows. Wise and powerful, they are
+often worshiped as gods and have even been known to
+serve the gods themselves.
+
+With an adult wingspan of 35 feet (10.6 m), they
+travel long distances to form huge networks with other
+intelligent and powerful creatures, such as other couatl
+families, phoenixes and even good dragons. The couatl
+see themselves as stewards and guides, often forming
+benevolent relationships with the tribes and cities of
+their homeland, typically warm or tropical forests and
+high misty mountains.
+
+Once they reach maturity, unpaired couatl gather
+from across entire continents to choose a new mate.
+Choosing places with hot thermal updrafts, they
+each perform an intricate and unique aerial dance; if
+another couatl's dance appeals the two will combine
+their manoeuvres, after which the two will move off
+to roost together. Pairs remain together for twenty
+years, and then choose a new mate, but maintain
+contact with old mates and offspring to maintain
+their networks. The female lays three eggs in a nest,
+constructed by her mate, of feathers, furs and tributes
+offered by people the pair have helped in their travels.
+Occasionally the couatl have been known to bring
+trusted servants, provided by the civilizations they
+interact with, to their roost to serve as assistants in
+caring for their neonates.
+
+Egg Care
+
+Couatl eggs are about 16 inches (40 cm) at their
+longest point, with the shell a deep jade hue. As the
+egg matures, a rainbow sheen develops across the shell,
+until the original green is but one color among the
+
+rest, at which point the egg hatches. They must be kept
+warm at all times, or the egg will cease to develop.
+Once laid, egg clutches are carefully buried somewhere
+
+Couatl feathers are sought after by collectors
+and certain cultures for their size, resilience, and
+brilliant colors. Fortunately, couatl molt feathers
+on a regular basis and a steady business between
+couatl communities and collectors inevitably
+develops for their spectacular plumage.
+
+26.
+
+Rearing Difficult
+Tricky Y
+Intelligence
+Superior
+
+with consistent high temperatures; in deep sand
+near natural hot springs, volcanic ash, or stable
+elemental fire vents. If no such place is available, then
+burying in an earthen pile surrounded by a fire ring
+kept constantly alight will suffice. Incubation lasts
+approximately 14 months, and by the twelfth month
+you can start to hear clicking and scratching within
+the shell as the neonate begins to become active.
+Couatl believe that a neonate should break free from
+its shell on its own, though they offer telepathic
+encouragement to their young.
+
+General Care
+
+Since couatl can communicate telepathically with any
+intelligent creatures in their presence even before
+hatching, they begin to speak with their nest-mates,
+parents and carers during the last several months
+within their shells. If you start to hear a voice in your
+head while tending a clutch you're not going crazy, it's
+just the hatchling getting to know you and beginning
+to develop its natural curiosity.
+
+Care and training of couatl is relatively easy for a
+dedicated caretaker who has an understanding of
+magic and access to plentiful food sources for a growing
+omnivorous neonate. A balanced diet of meats, flowers,
+fruits and roots is needed; couatl require the same
+range of food as humanoid adults from birth, although
+their appetites grow until they can consume a small
+cow and equivalent amounts of other food types in a
+single day.
+
+As intelligent creatures who are born with an
+intellect equivalent to a 3-year-old human, teaching is
+essential from the first moments of birth. Since they
+are fundamentally good creatures, couatl neonates are
+very trusting and will listen to their caretakers and
+follow instructions almost to a fault.
+
+As they mature over two decades, neonates benefit
+from contact with adult couatl; if possible, such
+contact should be encouraged. Adult couatl can teach
+adolescent couatl essential skills in plane shifting,
+teleportation, and flying that non-couatl caretakers
+are not always capable of. Adult couatl understand
+the bond between a caretaker and a child, and unless
+there are signs of abuse, they will not try to remove
+the adolescent couatl from the care of their non-couatl
+parent.
+
+
+--- INICIO PÁGINA 31 ---
+
+
+
+--- INICIO PÁGINA 32 ---
+
+D
+
+9 rank dragons of any kind amongst the most
+dangerous and difficult to rear, next to the dodomeki
+and the rakshasa but, like all rearing efforts, it
+definitely pays off if you get it right. They have
+
+an immense intellectual capacity and an alluring
+obsession with treasure. This combination makes them
+difficult to raise and keep under control, but once a
+dragon bonds with its owner, they develop a kinship
+that cannot easily be broken.
+
+When a dragon is gravid, she will carve out a new
+section of her lair to lay her eggs. Once laid, the female
+dragon will perch outside her lair and roar to attract a
+mate. Each dragon has slightly different cries, but to
+the layman, it's all dragon. Once the male dragon has
+fertilized the eggs, it will leave, and regardless is chased
+off as the mother's protective instincts switch on.
+
+During the incubation process, the mother uses her
+terrifying breath upon her eggs daily. Unlike the blast
+most adventurers witness in their final moments, this
+lasts for almost a minute, tiring her quickly as she
+bathes the eggs in draconic essence. Since dragons have
+few natural predators other than other dragons, and
+the mother will not leave the nest unattended, their
+eggs typically go undisturbed until they hatch. Once
+hatched, the young are guarded and nurtured until
+they learn to fly and defend themselves, which takes
+about three months. After that, the wyrmlings leave
+to find their own way. 1 have occasionally seen clutches
+band together when ejected from their mother's lair,
+forming what resembles a gang, though it's rare that
+these groups last into adulthood.
+
+Egg Care
+
+If you find an egg and attempt to bringit to term,
+realize you are embarking on a difficult and time-
+consuming endeavor. The first step is identifying the
+type of egg you have. This can be easy to do, if the egg
+
+El
+Dragon scales are a natural armor and provide a
+great amount of resistance to whatever element
+the dragon happens to be aligned with. When
+a dragon matures to the next life stage (when
+it transcends being a wyrmling and becomes
+an adolescent dragon in its own right) it sheds
+its infant scales like a human child loses teeth.
+These scales can be harvested and used to craft
+L incredibly rare and resilient armors.
+
+RAGON WYRMLING
+
+Rearing Difficulty
+Difficult
+
+Intelligence
+Superior
+
+was stolen from the nest of a known dragon. If not, you
+can usually determine the type from the location you
+discovered the egg. An egg found in a noxious swamp,
+for example, would probably belong to a toxic green
+dragon.
+
+Once you have identified the egg and decided you
+are going to hatch it, you will quickly realize you lack
+the elemental breath of a mother dragon. You must
+find a way to replicate this breath on your own and
+bathe the egg in its element a few times a day. This
+can be easy for some, like a frost or water dragon, and
+more difficult for others. An egg can still hatch without
+exposure to its element, but its breath weapon will
+never be as powerful as a dragon that was exposed.
+
+General Care
+
+Itis imperative that you understand that you are not in
+control of this dragon. It will never be your pet, and it
+will never submit to you. A dragon can be a companion,
+but only ifit deems you worthy of its friendship. The
+bond between a dragon and its owner is strong, bested
+only by the bond between wizards and their familiars.
+The best way to ensure a bond is to care for the dragon
+like it is your own child. Dragons are not only sentient,
+they are intelligent, and they can tell when they are
+being treated like a pet.
+
+A dragon can care for itself; It can wash itself, feed
+itself, and learn to fly on its own. Your job is to protect
+it, watch overit, and ensure it has everything it needs.
+If you put your life on the line for your dragon, it will
+do the same for you.
+
+An easy way to please your dragon is to help it
+develop its first treasure hoard. You will undoubtedly
+come home one day to find your dragon constructing
+such a hoard from items it has found during its hunts.
+Help the dragon guard the treasure, and you will
+become inseparable. Just don't borrow anything from
+it without negotiating first, or the inseparable will
+become consumable.
+
+Asit turns out, any dragon can fertilize any type
+of dragon's eggs, but they will only ever reach full
+maturity and power if parented by dragons of
+matching elements, and more often than not a
+dragon of unmatched type that gets close to eggs
+will eat or destroy them.
+
+28.
+
+
+--- INICIO PÁGINA 33 ---
+
+
+
+--- INICIO PÁGINA 34 ---
+
+ELEMENTLETS
+
+The mating rituals of elementals are hard to decipher,
+as no one has actually witnessed two elementals
+mating (or recognised if they have). The two most
+commonly accepted theories are that either a single
+elemental splits off a piece of itself into a smaller
+elementals, or that two adult elementals combine
+together to become a single entity then separate again,
+but into three entities instead of the two that came
+together. It is easy to overlook this process, as it can
+be difficult to distinguish two elementals from a non-
+sentient variety of element.
+
+The presence of an elementlet outside of the
+elemental worlds is a rare thing; due to their size, they
+are difficult to locate. Most are typically overlooked as
+temporary arcane manifestations or the miscasting
+of some spell, which happens more than you'd think.
+Yet it remains possible for the trained eye to pick out a
+newborn elementlet. Maybe that drop of water never
+evaporates, or that ember never burns out. Elementlets
+take up residence where they can live immersed in their
+element and can grow relatively undisturbed, such as
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+Instinctual
+
+Elementlets tend to take on the personality and
+mannerisms associated with their element. Fire
+elementlets are aggressive and unpredictable,
+while water elementlets are fluid and flexible. By
+understanding the element itself, trainers can
+understand the way the elementlet thinks, and this will
+help them bond.
+
+Some elementlets are friendlier than others and
+
+will develop closer relationships to their caretaker. In
+general, they tend to be drawn toward wielders of the
+magical arts, as they can sense the power that made
+them. Also, magicians have an easier time raising
+
+elementlets, as they can sustain their growth through
+spells.
+
+Training
+
+Training an elementlet can be dangerous, depending
+
+on the beast's element. Lightning and fire elementlets
+
+have been known to seriously hurt or kill their
+
+caretakers, usually by accident—but sometimes not.
+Elementlets are difficult to predict. Others will use
+
+training exercises as a means to escape, as elementlets
+crave freedom.
+
+The act of training depends heavily on the type of
+elementlet. Some are best suited to combat roles,
+others to agility or intelligence tests. They can be
+taught to run through mazes, battle foes, and solve
+complicated problems. Elementlets may lack the ability
+to communicate with us normally, but they are nearly
+as intelligent as we are.
+
+A well-trained elementlet can grow to become a huge
+boon. Elementals are in short supply and, especially
+when coupled with a magician of that elemental school,
+offer a rare amount of power that makes the rewards
+worth the risks.
+
+the local well or embers of a forge.
+
+Finding a way to bring them home is another
+story. Their lives are very delicate when they are
+small, so any attempt at capture and storage must
+be undertaken with great care. The most successful
+method of capture 1 have seen is to lure the elementlets
+into a custom-made terrarium. Sometimes these are
+pocket-dimensions. Sometimes they are enchanted
+environments which replicate the conditions of their
+home plane.
+
+General Care
+
+Taking care of an elementlet is akin to producing
+more of the element itself. A fire elementlet must be
+provided with plenty of tinder for itself to feed upon.
+An air elementlet must be given a large area in which to L
+blow, picking up more air as it does so. Elementlets eat Deep in the underground black markets there
+continuously. They absorb whatever is around them to exist illegal rings of elementlet battlers. These
+
+power themselves and their growth. organizations bring in trainers who battle their
+elementlets against each other; sometimes to the
+death. They take bets on the battles, and some
+
+of the best trainers rake in hundreds of gold
+
+pieces from a single match. In most civilizations,
+these activities are considered highly illegal and
+dangerous. Trainers found participating in these
+arenas are typically fined, imprisoned and have
+
+their monster possession licenses revoked.
+
+The best elementlet 1 ever trained was a little
+pebble I called Chip. It would ride on my shoulder
+making a deep, gentle humming sound, like it
+was trying to remember the words to a song. 1
+released it years ago now, at a gate to the Plane of
+Elemental Earth, but 1 still find myself humming
+
+that tuneless song when T'm walking.
+
+30.
+
+
+
+--- INICIO PÁGINA 35 ---
+
+e Y
+
+
+--- INICIO PÁGINA 36 ---
+
+Re Sine Difficulty.
+
+Extremel y Difficult
+
+Intelligence
+
+EYELINGS, DODOMEKI "“i:::
+
+WARNING: Extremely Dangerous
+
+“Dodomeki loosely translated as “thousand eyed
+demons,” are powerful, brilliant, and legendarily cruel
+aberrations that have long terrified and disgusted the
+layman while fascinating adventurous wizards and
+taxonomists, sometimes to the point of obsession.
+
+As an adult, the Dodomeki appear as a fleshy sphere
+approximately 8 feet (2.4 m) in diameter, with one side
+dominated by a large central eye and mouth, lined with
+long sharp teeth. Besides their central eye, they grow
+numerous eyes from their heads on thick stalks that
+constantly writhe and give them 360 degree vision.
+The number of eyes and length of the eyestalks seem to
+vary between dodomeki.
+
+Hermaphroditic, they are capable of autogamy and
+tend to reproduce once in their lifetimes, typically
+between the ages of 40 and 120. After self-fertilization
+occurs, there is a gestation period of 24 to 26 months,
+during which time one of the dodomeki eyestalks
+gradually grows and grows until it reaches twice the
+size of a human head at the end of the pregnancy.
+During the final stages of development, the eye in
+question closes and detaches from the parent, resulting
+in a newborn eyeling.
+
+General Care
+
+Most individuals who think about the dodomeki
+usually think about how best to avoid them, rather
+than potential companions. The rearing of a dodomeki
+is a challenge, recommended only for the greatest
+masters of the arcane arts. Even then, such rearing
+should be undertaken only with the utmost caution
+and care. If you are unfortunate or crazy enough to try
+and rear an eyeling, heed the following experiences.
+Dodomeki are omnivorous and can draw sustenance
+from almost any organic matter, including the corpses
+of unfortunate adventurers. They prefer bright
+and colorful foods with interesting visual textures,
+which is likely linked to their strong visual pallet.
+Eyelings should be reared on a diet of live birds, small
+mammals, and various edible plants and flowers. From
+adolescence into adulthood, dodomeki take a liking to
+the consumption of alcoholic spirits, particularly wine,
+
+The average lifespan observed for a dodomeki is
+around 200-250 years, yet some individuals and
+legends claim to have surpassed 800 years.
+
+32.
+
+which they require in voluminous amounts to become
+intoxicated. Its important to note that dodomeki do
+not process food like most creatures; rather, they vomit
+out a mass of gray, colorless, ashy matter when they are
+done absorbing the essential nutrients.
+
+Rearing
+
+The idiosyncrasies of an eyeling's temperament and
+personality are a great challenge—some might say
+“threat”—to a potential caretaker. Any time spent with
+their parent is singularly focused on magical research,
+theory, and practice, and nothing else. One theory is
+that after years of focusing on teaching the basics of
+arcane lore to the eyeling the parent selfishly desires to
+return to its own, more advanced research.
+
+Early socialization is key to befriending a wild
+eyeling. Put bluntly, the younger you can get one, the
+better. Just remember when you first approach an
+eyeling, it is probably just as disgusted and scared of
+your “bizarre and frightful” appearance as you are of
+its, so be sure to adopt a submissive posture and avoid
+making too much eye contact.
+
+The dodomeki have a natural genius for spellcasting
+and have often learned numerous minor spells by the
+time they reach adulthood. Without hands to perform
+the intricate gestures required for most casting, they
+gravitate to spells that are composed of the words of
+magic, only later developing techniques to overcome
+gestural casting components.
+
+Born with an innate fascination for spells, magical
+devices, and magical power of all kinds that only grows
+with age, gifts of interesting and unique magic items
+can help accomplish some level of friendship, or at least
+help you be recognized as a source of interesting gifts.
+In addition, personally providing it with lessons in
+arcane theory and spellcraft, with access to spellbooks
+of increasing complexity, is a good incentive for
+growing dodomeki to remain intellectually stimulated.
+
+As they reach adulthood, they tend to become
+more self-centered, reclusive, and secretive, leading
+some to outright paranoia and insanity as they rove
+further afield in search of magical items and spells
+worthy of their interest. For these reasons, we strongly
+recommend that you allow it to go its own way, rather
+than restricting its movement. If you see it again, it
+may remember you fondly from its childhood years.
+
+
+--- INICIO PÁGINA 37 ---
+
+
+
+--- INICIO PÁGINA 38 ---
+
+Rearing Difficult
+Tricky Y
+Intelligence
+Instinctual
+
+GELATINOUS CUBELET - :::
+
+The gelatinous cube is the kind of creature that
+spurs debate among wizards and philosophers
+
+over the nature of life. They eat, grow, and move
+toward food, but are they truly alive? These large,
+translucent oozes seem to possess only the most
+basic of drives.
+
+One thing's for certain, a gelatinous cube is
+ravenous. The average gelatinous cube will eat
+around 50 lbs of food per day. A malnourished cube
+will slowly shrink, eventually drying out and dying.
+Most stabilize in size at around 10 ft in size, but well
+fed gelatinous cubes have been found up to twice
+that width.
+
+General Care
+
+Harvesting a cubelet is a simple matter for the
+experienced beastmaster. One merely needs to find a
+large cube, and carve off a chunk at least 1 cubic foot
+(0.03 m?) using a non-reactive material. I have found
+my platinum-plated blade works well, though one
+dedicated cubist of my acquaintance has a special
+
+set of glass harvesting blades she commissioned
+specifically for the task. Once harvested, assuming
+you can fend off the donor, drop the cubelet into
+
+a square chest lined with organic material, I use
+minced beef, and leave it to set for a few days. It will
+naturally heal the wound that separated it from the
+larger cube in this time, and emerge ready to grow.
+
+In their natural environment, cubelets wander
+dungeons and tunnels, and encounter enough traps
+laid for unfortunate adventurers that the population
+of cubelets is maintained. I have seen a cube slide
+unperturbed down a corridor filled with scything
+blades, and come out the other end as twenty seven
+new cubelets.
+
+While growing to maturity, it's a good idea to keep
+the cubelet in a well-mortared run with plenty of
+damp places for it to maintain a healthy slime. Like
+snails they use their inner liquid reserves to create
+
+a trail for them to slide across the ground, but being
+highly acidic it evaporates after only a few hours.
+Distillations of this corrosive slime can be used to
+pen a cubelet into a specific area if you can't putina
+sealed stone run, as immature cubelets won't cross
+the trail of an adult, unless it's of their donor cube in
+which case they will naturally follow it. If you have
+multiple cubelets, make sure you give them each a
+damp, nutritious place to rest as they will eventually
+absorb one another if forced to compete.
+
+A common practice for gelatinous cube growers is
+to sprinkle colored mineral dust into their cubes. The
+normally translucent cubes become much easier to
+spot, preventing the owner from being accidentally
+paralyzed and eaten by their pet. Giving each cube a
+unique color makes it much easier to tell them apart
+as well.
+
+Training
+Gelatinous cubelets aren't so much trained as
+directed. They are attracted to motion, but can sense
+vibrations best when they are in a tunnel or a tube.
+Gelatinous cubelets can smell a surprising distance,
+so they will quickly find food left in their habitat.
+
+A gelatinous cube tends to expand to the size of
+its container if given sufficient food. Most become
+cubes the size of the hallways they roam, but
+creative caretakers have been known to keep “cubes”
+in strange shaped containers, forming gelatinous
+spheres, hexagons, or even stars.
+
+Some cubists have taken to keeping their charges
+in partially submerged areas, where they absorb
+a lot of water and become more fluid. They can
+then be trained to sit in water features such as
+wells or fountains and appear like normal water,
+until a creature drinks from it and the corrosive
+paralytic sends them pitching headfirst into it to be
+consumed.
+
+One village thought it was a great idea to keep a
+gelatinous cube in a pit to dispose of refuse. Each
+night the village trash would be thrown into the
+pit for clean, odorless disposal. This worked well
+until the cube grew large enough to escape during
+the night. The next morning the cube and half the
+villagers were nowhere to be found.
+
+Another ostentatious display 1 have seen
+
+was a cubelet used as a Duchess' pet; she had
+surrounded it with a cage of platinum wire
+attached to a chain, and dropped glittering gems
+into it to form a dazzling cube of conspicuous
+wealth that would eat the fingers of any trying to
+steal the jewels.
+
+34.
+
+
+--- INICIO PÁGINA 39 ---
+
+sá <p
+
+
+
+--- INICIO PÁGINA 40 ---
+
+GNOLL CUB
+
+Gnolls are predatory, nomadic humanoids who
+make their home in vast plains and forests across
+the world. A pack creature, the gnoll has earned
+
+a frightening reputation as a vicious monster
+
+who devours fallen foes and raids small towns
+
+and outposts. Though considered by some to be a
+primitive species, they have a highly complex pack
+structure, and every member of the tribe has an
+assigned role they must fulfil for the good of others.
+
+Gnolls usually die of injuries received in conflict,
+but a gnoll can live up to three to four decades. A
+gnoll will take, on average, one to two mates in its
+lifetime, and with each pregnancy lasting only five
+months, a mother can birth to two to six cubs in a
+single litter.
+
+A gnoll mother is expected to keep hunting and
+providing for the tribe within the first four months
+of her pregnancy. Upon reaching the last month
+she is allowed to rest in a communal den with other
+mothers while the rest of the tribe picks up the
+slack. Mothers receive the freshest and best cuts of
+meat and the most water during their pregnancy.
+
+Lost Whelps
+
+Gnoll families are protective of their whelps, going
+to great lengths to ensure they are well-fed and
+protected. Lost whelps have a high mortality rate,
+and those who would otherwise survive often perish
+when adults are killed by predators or adventurers.
+A gnoll whelp will latch on to strong parental figures
+and seek their approval by catching small animals,
+such as rodents and snakes, and presenting them to
+its surrogate parent to show off its hunting skills.
+As they grow, whelps will become more aggressive,
+often settling their arguments by brawling. Raising
+them among children of other species is difficult,
+as their aggressive nature will eventually pit them
+against children of civilized races, whose skins are
+much thinner and nails blunter.
+
+Rumor has it that several individuals have bred
+gnolls in slavery as an attempt to civilize them and
+uplift the species. These attempts have ultimately
+failed as the traditions of civilization conflicts with
+both the nature and culture of the gnoll.
+
+36.
+
+Rearing Difficulty
+
+ricky
+Intelligence
+Civilized
+
+General Care
+
+Gnolls are omnivores, but their preferred dietary
+staple is fresh meat. Poorer tribes unable to
+
+find fresh meat will resort to eating carrion and
+preserved meats, but this will cause them to lose fur
+and muscle density, resulting in thin, sickly looking
+creatures. Those who are able to maintain a steady
+diet of fresh meat will have thick, luxurious coats
+and will grow to larger size than their malnourished
+brethren.
+
+Studying the behavior of gnolls reveals that
+their ears, tail, and lip movements can reveal their
+emotions, even when they are trying to hide them.
+Their tails will dip downward when they feel fear
+or anxiety, and their ears will stretch back on their
+head and lips curl into a snarl when they are feeling
+anger, hatred, or rage. They do not wag their tails
+but will fliick them back and forth when surprised or
+when approaching a dominant creature.
+
+Although looked upon as greedy and ravenous
+for their preoccupation with food and gold, it is
+actually a survival tactic. Growing up as hunters
+teaches them to constantly seek out new food, and
+not knowing where their next meal will come from
+causes them anxiety.
+
+Gnolls adhere to a pack structure, with the alpha
+male overseeing the hunting activities, while
+the matron, a spiritual guide, oversees all other
+decisions of the pack. Next to hunting, gnolls
+respect displays of dominance or ferocity. Those
+attempting to hire gnolls as mercenaries or soldiers
+need to show their dominance constantly, or the
+gnolls will leave or, worse, turn on them.
+
+Rearing
+
+Raising a whelp has numerous benefits, as the
+teacher can impart tactics and understanding of
+the civilized world to the gnoll who can use that
+
+to its advantage when dealing with society later
+
+in life. Socializing gnolls can also make them
+
+better mercenaries, as they are more capable of
+understanding their employers. Devoted gnolls who
+see their teacher as their pack leader will obey and
+protect them from harm as best they can, and value
+scraps from their meals as a sign of favour..
+
+
+--- INICIO PÁGINA 41 ---
+
+y
+
+>
+
+
+--- INICIO PÁGINA 42 ---
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+
+GRIFFIN HATCHLING |
+
+Griffins are majestic creatures that sport the head,
+talons, and wings of giant eagles and the hindquarters
+and ears of lions. Griffins (also spelled “gryphons” or
+“griffons”) fly and lay eggs but when rearing chicks are
+more like their leonine half.
+
+Griffins use their front talons to rip apart prey and
+manipulate their habitats. Their tufted ears are set
+asymmetrically, to better enable a hunting griffin to
+pinpoint prey that is heard but not seen. Their vision
+is binocular and excellent in both dark and light. Their
+thick fur allows them to live in very cold climates.
+
+Griffin females have drab plumage and fur
+coloring, while males are slightly smaller and have
+bright, lustrous feathers. To attract a potential
+mate, griffins engage in a complex and beautiful
+mating flight. The male grifiin will initiate the flight,
+performing acrobatic aerial maneuvers, showing off
+his plumage. An interested female will then join the
+flight, adding to the dance. A successful dance will
+result in both parties matching each other flight for
+flight, coming together in a thrilling synchronous
+performance. At the completion of the dance, the
+mated pair will search for a suitable home in which
+they will build their family, and remain mated for life.
+
+Griffins roost in eyries carved into high
+mountaintops or sheer cliff faces. These eyries are
+usually natural caverns, but they will use ruins or
+abandoned dens if they are well placed. Griffins are
+non-migratory, and will keep the same nest unless
+circumstances force them to move.
+
+A clutch produces an average of two offspring in mid-
+winter, and a pair will mate only three or four times in
+their life.
+
+Egg Care
+
+Griffin eggs are very sturdy, with thick shells that
+
+can withstand extreme weather, and thus need little
+attention. These eggs incubate for 40 days, and the
+hatchlings emerge hungry and can walk within a
+
+few minutes. Their hindquarters are bald but their
+shoulders, heads, and wings are covered in a very soft
+down.
+
+Griffins are rumored to be able to tell truth from
+lies and see through magical illusions. Many
+
+believe that wearing or ingesting a griffin feather
+or tooth will bestow upon them the same ability.
+
+38.
+
+Clever
+
+General Care
+
+Have blended raw meat ready for new hatchlings, to
+emulate the premasticated nourishment delivered to
+the babies by their mother. Newly-hatched griffins will
+almost always imprint on the first face they see upon
+emerging from their shells, so be ready when you hear
+the scratching start.
+
+Hatchlings eat a staggering amount of raw meat,
+and must be fed at least five times a day, eating twice
+their body weight daily in the first year of life. Itis also
+important to mix bones, fur and stomach contents in
+with the meat to supplement their diet.
+
+Hatchlings prefer to sleep in enclosed spaces —
+setting out a blanket-lined crate will entice a young
+griffin to make a small nest in that area. One should
+clean a hatchling's nest weekly, while the young griffin
+is otherwise engaged in hunting or play.
+
+Training
+While an imprinted hatchling may be more inclined
+to friendly behavior toward their surrogate family,
+they are still predators. Young griffins, or gryphlets,
+require a lot of stimulation in the form of play once
+they fledge. After this, they will be more inclined to
+explore their hunting instincts, and may grow restless.
+Experienced falconers may find it enjoyable to use a
+lure to play with a gryphlet, but one should not ever
+jess or hood them, as they will respond with extreme
+panic and aggression. Toys designed to look like small
+prey can also be attached to lines and rods, to facilitate
+the stalking and pouncing part of a grifin's hunting
+regimen.
+
+Developing a lasting bond requires plenty of
+handling. 1 highly recommend that a caretaker cuddle
+and stroke their hatchling as often as possible, to
+emulate the grifin parents” protective affection with
+their young. Once the claws and beak grow sharp, I
+then recommend falconer's gloves and other robust
+gear, to protect against playful kneading and nipping.
+
+Young griffins reach adolescence at one year. They
+may become rebellious and wish to range farther afield
+for their hunting; it is advisable to let them explore
+to give them a sense of the large territory their wild
+cousins maintain.
+
+A gryphlet reaches maturation around its second
+year. If you wish to keep your companion, it is best to
+see them mated and provide them with an eyrie or they
+will grow despondent.
+
+
+--- INICIO PÁGINA 43 ---
+
+
+
+--- INICIO PÁGINA 44 ---
+
+HIPPOCAMPUS FRY
+
+The hippocampus is a rare breed of sea creature with
+the upper body of a horse and lower body of a fish.
+They have two legs and two back fins, and females
+have a set of wings similar to that of a pegasus, but
+more akin to fins in structure. They are born via live
+birth underwater and measure 3 feet (1 m) long and
+weigh around 30 pounds (13.6 kg). The breeding cycle
+of the hippocampus is based on seasonal weather
+changes. During the colder seasons, hippocampi enter
+an underwater hibernation period, during which they
+survive without oxygen for long periods, only rising
+to breathe when there is no ice over the water or when
+the temperature becomes that of a cold glacial lake.
+
+When they do rise from the water after hibernation,
+they begin their mating rituals. The female
+hippocampus, or mare, is the flamboyant one and will
+perform a dance, flapping her wings and swimming
+in an intricate pattern under the water. The males, or
+stallions, observe and then follow the desirable mare
+in her dance. However, the hippocampus couples
+mate seasonally and do not remain with individual
+partners beyond a single season. The foals are born
+in the summer season after nearly four months
+gestation.
+
+The stallions are the carrier and bearer of the fry,
+keeping the eggs in a small pouch on their stomachs,
+where the fish part of their body begins, much like
+the mundane seahorse. As the hippocampi only have
+single births, and rarely twins, this is not so much of a
+chore, and both fry and stallion mortality is rare.
+
+General Care
+
+As itis an aquatic creature, you must ensure that
+
+the hippocampus has a sizable body of water to
+swim about, explore, and develop in. Fortunately,
+hippocampi osmoregulate, so they can thrive in both
+freshwater and saltwater environments, making
+
+The hippocampus fry is attracted to fire coral,
+typically biting off small pieces and grinding itin
+its mouth. They will naturally deviate if they spot
+a patch of this toxic growth, though hippocampi
+seem to have adapted to the toxin and are happily
+unaffected, unlike their handlers. A small amount
+adds healthy lustre to their scales.
+
+Rearing Difficulty
+ricky
+Intelligence
+lever
+
+site selection far easier than it is for other aquatic
+creatures. Fry need a regular diet of kelp or algae and
+minnows or sardines, depending on their location
+and breed. If near rivers, they will find a hard time
+resisting swimming to catch fish, so a watchful eye
+must be kept on them during this time.
+
+It is important to note that the temperament of the
+hippocampus will vary depending on what breed it
+came from. Those from the southern tropical islands
+are typically hot-tempered and are quick to anger
+or excite and easily fall into bad habits like biting or
+stomping. Breeds from the northern fjords are docile
+but can fall into deep depressions if they are not well
+cared for and do not have regular salt baths.
+
+Training
+Training a hippocampus is very similar to training a
+mundane horse, with the exception that all training
+is conducted in water. Regular lunging (sprinting
+in a long line) is required. It is also necessary to
+teach diving, which can be done with dense, bright
+objects that the fry can retrieve from various depths.
+Without this training, they will be averse to leaving
+their comfort zones. When training the fry to bear a
+rider, begin by strapping a potato sack or something
+of a similar weight onto its back and tie it in place,
+then place it on a lunge line. Repeat this every other
+week until there is no resistance, then increase the
+load over time until they can handle the weight of a
+person. This normally takes about three months and
+should not begin before the age of two.
+
+. ul
+The most successful hippocampus trainers are
+the nomadic merfolk circus troupe, the “Carnival
+of Deep Stars”. Through dedication, breeding
+and constant training they have a dozen or more
+hippocampi who can perform tricks that would
+put any land cavalry to shame. They also take
+advantage of their watery domain to conduct
+complex formations and manoeuvres in all
+dimensions, breathtaking to behold. The acts are
+most entertaining, and well worth throwing a
+few coins to the waters. Other beastmasters have
+dismissed their skill as crass Monster Charming
+or possession magics, but one look in the eye of
+those beasts and 1 could tell it was well-drilled and
+
+L hard-earned effort.
+
+40.
+
+
+--- INICIO PÁGINA 45 ---
+
+
+
+--- INICIO PÁGINA 46 ---
+
+KIRIN FOAL
+
+Few people have ever seen the kirin or qilin and
+lived, not because the creatures are violent but
+because they serve the gods as psychopomps,
+delivering favoured mortals to the divine realms
+upon their death. Those lucky few who have seen and
+not passed speak of a creature of immense power
+and strange abilities, having the head of a dragon,
+
+a flowing lion mane, the antlers of an elk, armored
+scales, a long tail, and the body of a horse, all encased
+in a magical flame that only burns the unworthy.
+
+Kirin do not reside naturally on the mortal plane.
+Rather, they are denizens of the Astral and magical
+planes. If one were to come to care for a kirin foal, one
+must possess incredible magical abilities not limited
+to dimensional and planar travel, as well as a saintly
+demeanour and probably the blessing of at least one
+good god, just to be safe.
+
+Born in a manner similar to mortal horses, kirin
+mature in only 12 months, growing to their full size,
+strength, and abilities. They are clearly intelligent
+creatures, and speak telepathically when they need
+to, which is rarely. Otherwise they are strangely silent
+creatures, moving with quiet dignity and purpose.
+
+It is important to understand the role kirin fill. They
+act as the heralds, messengers and couriers of the
+gods of goodness, magic and life. Most importantly,
+when a mortal of particular grace and value to these
+gods is about to pass from this world, the kirin is
+sent to safely ferry them through the underworld and
+bring their reincarnated souls to their new body. A
+kirin foal's entire existence is based on learning these
+important jobs.
+
+A note of caution: As the kirin are messengers of
+the gods, they do not take the harming of innocents
+lightly. They do not even tread upon the ground so as
+to avoid harming even a single blade of grass. Their
+wrath for those who are evil is quick, hot, and final.
+
+El L
+
+Several tomes of magical wisdom contain a story
+of an unnamed land where a master wizard raised
+a single kirin foal planning to harvest its parts
+when it reached maturity. The retribution visited
+upon the wizard and the region by the gods was
+so complete that everything but the story of its
+destruction was removed from existence. Not even
+a memory or name remain.
+ul e
+
+42.
+
+Rearing Difficulty
+Variable
+
+Intelligence
+Intelligent
+
+General Care
+
+As said before, only the most skilled masters of
+magic should attempt to care for a kirin foal. Mystic
+theurges have had the most success in the care of
+kirin, probably because of their understanding of
+both the mystical and holy nature of the kirin. Kirin
+foals are never found in the wild, and only appear as
+gifts from the gods, so to be chosen to raise one is a
+great honor.
+
+While adult Kirin do not require sustenance, foals
+will occasionally consume pure magical energy,
+naturally magical materials or those crafted into a
+magical item.
+
+The housing of a kirin foal is incredibly important.
+Every part of a kirin is highly prized by the
+unscrupulous for its intensely magical properties.
+
+A secure compound with plenty of mundane and
+magical protection is necessary, and usually only
+established churches or monastic orders have the
+moral fortitude and facilities to provide suitable
+agistment. Wars have been fought over a single kirin's
+scale. Secrecy may be the best protection for a kirin
+foal, so a stable that is guarded against scrying and
+dimensional travel is important. Kirin need to run
+and fly, so enchanting an entire region or perhaps a
+secret pocket dimension against scrying is considered
+obligatory when preparing to take on such a sacred
+duty.
+
+Rearing
+
+Basic training of a kirin foal is important so that they
+may carry the worthy on their backs. Thus, training
+them to carry a person on their back while flying and
+eventually traveling to various dimensions should be
+a top priority.
+
+Travel across all dimensions and visiting the various
+gods of magic, life, and goodness is important to
+familiarize the kirin with its role. It is especially
+important that the kirin visit the realms of the dead
+at least once before it is fully mature, usually after
+10 months. It is important to make sure the kirin
+foal is not injured or harmed at any time during
+these trips, as their blood is magical and can cause
+serious, powerful, and chaotic events when it touches
+anything.
+
+
+--- INICIO PÁGINA 47 ---
+
+
+
+--- INICIO PÁGINA 48 ---
+
+KITSUNE PUP
+
+Are they beautiful women or men who wander
+through the forest looking to help those in need?
+Or are they magical white foxes with nine tails who
+protect the lost and sacred places within a wood?
+
+It's difficult to categorize the mysterious kitsune
+(otherwise known as the nine-tailed fox). Some
+believe them to be powerful witches or warlocks
+with access to rare spells. Some believe them to be a
+breed of fox that was altered with powerful magics.
+Others consider them spirits related to fertility,
+magic, prosperity, and feminine myth. Whatever they
+truly are, they live in a symbiotic relationship with
+humanoids and wield incredible power.
+
+T have discovered a common thread in tales of the
+kitsune. An unfortunate, lone man or woman in need,
+whether recovering from a failed harvest, caring for
+children, or defeating enemies, meets a beautiful and
+mysterious person of the opposite sex. The ways they
+meet are myriad, from a night's stay in a lonely shrine
+to a fancy costume party. Usually, the unfortunate
+individual or those who know them will see a fox
+before meeting the mysterious stranger, but not
+always.
+
+The couple fall in love, and as if through a blessing
+of fate, their own or even their entire village or clan's
+fortunes improve. The kitsune bears or fathers at
+least one child. The kitsune's goal is to always raise
+one child, usually a daughter, who is also a nine-tailed
+fox. If the kitsune's spouse is kind, they will stay with
+their spouse even after the child is grown, but if their
+spouse is cruel or indifferent, when their child is old
+enough, they will leave, and their spouse's fortunes
+will turn for the worse. Loving couples sometimes
+grow old and die together, their grown children
+having left home to bring great fortune to others.
+
+El L
+
+A kitsune's pelt and nine fox tails are prized
+
+by unscrupulous hunters, collectors, and
+practitioners of dark magic. The pelt and tails are
+luxurious, soft, and desired as cloaks. Practitioners
+of dark magic believe that the coat and tails can
+
+be used in a secret ritual to turn the one wearing
+the coat into a kitsune themselves. No such ritual
+is confirmed to exist, but this does not stop the
+hunting of kitsune.
+
+44.
+
+Rearing Difficult
+Tricky Y
+Intelligence
+Civilized
+
+General Care
+
+Kitsune pups are born from their humanoid mother
+in humanoid form, and in most cases the pup is
+female appearing as the same humanoid race as their
+parents . When they are roughly three years of age,
+they gain the ability to transform into their fox form.
+Legend says that some kitsune females will only
+spend one evening with a mate and then transform
+into their fox form and leave for the deep forest
+
+to whelp pups born as foxes who transform into
+humans.
+
+Raising a kitsune child is much like raising a child
+and an excitable puppy at the same time— a child
+and puppy that can shapeshift and use magic! It is
+important to nurture and care for them as any loving
+parent would, but keep a close eye on them, as they
+are prone to mischief and their curiosity will often get
+the better of them. Living near a forest or in a rural
+area is prefered so that the pup can learn to transform
+and use their abilities away from prying eyes.
+
+Rearing
+
+Rearing a kitsune pup has many benefits and
+difficulties, and an adult kitsune is always preferred,
+as the extent of their abilities is not fully known. If
+no adult kitsune is available, then a person of magical
+ability is the next best thing in helping a kitsune
+pup. As any humanoid child, they can be instructed
+but their ability to transform into a fox, alter their
+appearance and teleport makes it difficult to keep
+track of an unruly or upset pup unless magical
+measures are taken to track the child.
+
+When the pup enters puberty, many changes take
+place both physically and magically. They gain a deep
+desire to travel, and their magical abilities Ñlourish.
+Among kitsune, it is traditional that the adolescent
+travels to another village or city in the same region
+to help the locals there and master their skills. When
+enough time has passed, the kitsune will return home
+and undergo a secretive ritual to become a true adult.
+The new adult emerges and leaves home on a year-
+long journey. Many meet a person in need during
+these journeys and the cycle begins anew.
+
+
+--- INICIO PÁGINA 49 ---
+
+
+
+--- INICIO PÁGINA 50 ---
+
+KOBOLD KID
+
+Witting and wily creatures, kobolds are natural
+thieves and scouts. They're intelligent, which means
+they must be raised differently than other beasts, but it
+also means they are highly capable. Although they are
+small of stature and weak of frame compared to many
+humanoids, 1 would caution against underestimating
+them; if you do they may surprise you, but you may not
+like what you get.
+
+Full-grown kobolds aren't much larger than halflings
+and their babies are significantly smaller. They grow
+up quick, though; kobolds reach maturity in just a few
+short years. This means adult kobolds may only have
+as much life experience as a five-year-old human, but
+their cunning intellect make them far more clever
+and devious. Kobolds have a deserved reputation as
+tricksters, scoundrels and cutthroats, but a baby reared
+away from kobold society has the capacity to be raised
+into an upstanding (if immature) citizen.
+
+When two kobolds mate it's usually a union of
+passing interest rather than life-long commitment.
+Females lay a clutch of three to five fertilized eggs,
+then wander off to let them fend for themselves. Most
+kobold mothers are only a few years old themselves
+and are hardly mature enough to care for their young,
+so they let nature have its way and if the children find
+their way back into kobold society then so much the
+better. Many kobold kids don't make it past hatching,
+but because female kobolds are capable of laying eggs
+every three months they usually wind up with enough
+survivors to keep the species going.
+
+Egg Care
+
+Although kobold mothers make basic attempts to
+hide a clutch of eggs, it's relatively simple to find an
+unattended nest if you're near kobold territory. There
+are usually dozens of nests at any time of year, so it's
+a trivial matter to wander in and grab any egg you see
+lying around.
+
+The egg itself requires very maintenance and will
+hatch about a month after being laid. As long as you
+keep the egg safe from predators and resist the urge
+to make kobold omelettes (trust me, they're not very
+delicious) you'll have a new baby kobold in no time. Do
+note that a kobold's coloration will vary dependent on
+the egg's temperature, ranging from reds and oranges
+in warm seasons to blues and purples in the cold.
+
+46.
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+Intelligent
+
+General Care
+
+For the first four years of their lives, kobolds have
+insatiable appetites. They grow rapidly and their
+metabolisms are among the fastest in the humanoid
+world, so it's important to keep a large stock of food
+
+on hand. Thankfully kobold kids will eat just about
+anything--they're omnivorous scavengers, but prefer to
+eat meat when available.
+
+If left untempered, kobold kids develop mischievous
+and conniving personalities. This makes it difficult to
+train them unless you teach them early on who is boss.
+I don't recommend punishing them for misbehaving
+since that typically leads to them rebelling even more.
+Instead, try to use positive reinforcement for the first
+several years until you've formed a relationship and can
+rest assured they won't booby trap your commode.
+
+Once you have formed a bond with your kobold, it's
+important to continue to take care of them and groom
+them--both physically and emotionally. Kobolds as a
+species don't often form lasting bonds with anyone,
+so take care to ensure they want to be around you. By
+offering them food and occasional affection, you can
+earn and maintain the kobold's trust and desire to stick
+around. After that, it's a lot easier to raise them as your
+
+helper.
+Training
+
+Most caretakers are unsuccessful at teaching the kid
+any tricks until it is at least two years old. During the
+first few years the kobold is growing, learning how to
+walk and talk, and learning how to avoid getting into
+things (or how to avoid getting caught getting into
+things).
+
+Kobolds, despite most accounts, are intelligent
+creatures capable of speech and conversation. They're
+also capable of swimming, climbing, skulking, and
+trapmaking, the latter being a natural kobold talent
+and a skill you can't teach most other beasts. Because
+they are so adept at being sneaky and cunning, most
+beast masters who raise kobolds employ their pets as
+scouts and dungeon guardians.
+
+If you are adept at magic and have the patience,
+you may be able to teach your kobold a few spells. Be
+careful which spells you show it, though--1 once knew a
+wizard who taught his kobold how to cast fireball and,
+well, let's just say he never lived to like the results. 1
+have, however, met many others who have had success
+teaching their kobold invisibility and lockpicking spells.
+
+
+--- INICIO PÁGINA 51 ---
+
+
+
+--- INICIO PÁGINA 52 ---
+
+LEVIATHAN, LITTLE
+
+Distinguished by its serpentine body and draconic-
+shaped head set with frills, the leviathan is the largest
+known creature of the seas. The nightmare and terror
+of all mariners, the leviathan can grow to lengths
+upward of 350 feet (107 m). The leviathan is its own
+sole predator - if there is anything larger 1 would
+prefer not to meet it. As with other large predators,
+the leviathan does not tolerate others of its species
+sharing the same territory except during the breeding
+season. This aggressive behaviour also extends to large
+boats sailing overhead, as these can be mistaken for
+large threats or potential prey, earning the creature its
+fearsome reputation.
+
+During the mating season, leviathans congregate in
+warmer waters, though they will not venture too far
+toward the shore due to their immense size and the
+risk of beaching. At this time, the frills on the male
+turn into a dazzling display of bright colours, which
+they use to attract the attention of a potential mate.
+When a male has a female's attention, he will swim
+slowly around her, displaying the frills. If the female is
+impressed, the pair will mate, and the female will leave
+while the male repeats the display with another female.
+
+Gestation last several months, ending in the live
+birth of between five and seven young. The mother
+eats any that are small or weak. The young then spend
+several months with their mother as they learn to hunt
+for themselves. Once the little leviathans reach their
+first year, they are left to fend for themselves, typically
+the most dangerous parts of their lives as they must
+avoid other leviathans and creatures they have not yet
+outgrown.
+
+General Care
+
+Itis possible to rear and train a leviathan, though 1
+have never done so myself. The merfolk claim that in
+the last age a hero named “Mychelleus” captured a baby
+leviathan and trained it as his aquatic mount. I have
+copied down here all I gleaned from their tales, but if
+anyone manages to raise one successfully please let me
+know!
+
+Space is the most difficult thing for rearing a
+leviathan; if you get it early enough, you can isolate it
+in a cavern pool or submerged structure where you can
+spend quality time with the creature. In the wild they
+prefer fatty foods such as seals and whales, though T'm
+
+48.
+
+Rearing Difficulty
+Extremely Difficult
+
+Intelligence
+Clever
+
+sure theyd eat cattle if that is more easily available.
+
+While a leviathan will not need any regular grooming,
+l am told the creature's scales must be regularly
+checked for aquatic parasites, as well as wear and tear.
+A leviathan will deal with grooming through the shoal
+of cleaner fish they usually attract early in their lives,
+but a captive leviathan must be provided with these by
+the beastmaster. Any barnacles found on the creature's
+body do not need to be removed unless large areas are
+covered with them, impeding the creature's ability to
+swim.
+
+Training
+Feeding before training is important so they don't see
+you as food, but not so much that they no longer pay
+attention to treats. Start with a few seals, and offer
+giant turtles as rewards; the extra crunch is also good
+for keeping teeth sharp.
+
+As they grow you will need some sort of coaxing
+mechanism for it to return to you. Familiarize the
+beast with a customized scent released into the water
+at meal times, or an underwater horn call you only use
+for feeding.
+
+Establishing dominance over such enormous
+creatures may appear challenging, but they are
+impressionable at an early age and judicious use of
+Giant Growth potions and spells will enable you to
+convince your leviathan that you are large and in
+charge. The ability to breathe underwater and swim
+quickly is essential to training a leviathan as it will
+spend most of its time beneath the surface. With
+enough patience and rewards, a leviathan can be
+trained to recognise a large variety of signals, from
+light flashes to clicking sounds, to prodding sensitive
+areas around the eyes, corners of the mouth or behind
+
+the frill.
+
+¡ L
+
+Although the leviathan is primarily found in seas
+and oceans, a rare subspecies has adapted to living
+in freshwater lakes and lochs. These creatures
+have a calmer demeanour than their saltwater
+cousins, and the young often fetch a good price
+
+on the black market. As a result, they have been
+driven close to extinction and now only occupy the
+deepest and most isolated places.
+
+
+
+--- INICIO PÁGINA 53 ---
+
+
+
+--- INICIO PÁGINA 54 ---
+
+MANTICORE CUB
+
+The manticore is an awesome creature, ideally suited
+to its role as an apex predator. In form, the manticore
+is a muscular, leonine feline with razor-sharp
+
+teeth and claws. To this already formidable arsenal
+the beast adds a venomous scorpion-like tail and
+enormous, leathery wings.
+
+The manticore employs a range of strategies in
+hunting for prey, adapting as necessary for different
+quarry. Their first approach when dealing with
+unfamiliar prey is to swoop from the air, seize it in
+a death grip with its claws and fangs, and sting it
+repeatedly until it stops struggling, an effective yet
+brutal method.
+
+Manticores are solitary beasts. Each male claims a
+large territory which he defends aggressively against
+intrusion by other males. On occasion, this results
+in a fight to the death, if the intruder is unwilling
+or unable to retreat. Manticore matrons do not
+claim territory but instead hunt widely for prey and
+potential mates. When a matron enters a male's
+territory, he ritually challenges her, testing her mettle
+before either yielding to her or trying to drive her off.
+After he yields, the matron will remain in his territory
+for a few days or weeks, hunting with him and testing
+him with bouts of combat. If the matron decides that
+the male is a worthy mate, she pounces, bites off his
+stinger, and breeds with him. On completion of the
+act, she paralyses the male with her venom and then
+devours him.
+
+Claiming the male's territory for her own while
+she bears her cubs, the matron aggressively defends
+it against intrusion. After a six-month gestation
+period she typically gives birth to two to four cubs,
+half of which are likely to die before becoming
+adults. Manticores are always to be feared, but this is
+especially true of a matron who is guarding her cubs.
+She will viciously and relentlessly attack any perceived
+threat with little concern for her own safety. Once
+the cubs are around 1 year old, their mother leaves
+to resume her peregrinations, taking any female cubs
+with her and leaving the males to fend for themselves.
+The males fight among themselves for her abandoned
+territory, and the losers are driven off to find their
+own place in the world or killed. After another few
+months, the matron separates from her female cubs,
+leaving them to begin their own journeys.
+
+50.
+
+Rearing Difficulty
+Complicated
+Intelligence
+Clever
+
+General Care
+
+Many beastmasters have tried to breed manticores
+in captivity, but very few have succeeded. Let their
+bloody, tattered remains stand as an object lesson to
+those of us with more sense. Manticore matrons are
+far deadlier than the male of the species, and even
+
+if you succeed in keeping one captive for a time, the
+best you can hope for is that she will kill and eat any
+males you offer to her. The worst you might expect is
+left as an exercise for the reader.
+
+It is far safer and easier to capture male manticores
+from the wild at a very young age. While they are
+still potent predators (being at least the size of a
+lion and far more dangerous thanks to their wings
+and venomous tail) their inexperience makes them
+relatively easy to catch with nets or pit traps.
+
+Manticores require a steady diet of raw meat to
+survive, and to thrive they must be allowed to hunt
+live prey. They get a taste for whatever they are fed in
+their formative years, as a king who fed his manticore
+with condemned prisoners discovered to his fatal
+dismay.
+
+Manticores are fiercely territorial and fly into a
+violent rage if something invades their space or
+they are forced out of it. However, a beast that has
+been acclimated from youth to a small enclosure will
+contentedly treat this as his entire territorial range.
+
+Building a positive relationship with a manticore
+cub is largely a matter of staying out of his way and
+making him regular offerings of food; in this way,
+the process closely resembles that of bonding with a
+house cat.
+
+Training
+Some say that manticores are completely untrainable,
+and l agree to a point. The best you can hope for is
+to condition the cub, through repetitive stimulation,
+to preferentially devour victims who are wearing a
+particular colour or uniform.
+
+The manticore's habit of killing and eating anything
+that enters his territory makes him an excellent
+guard animal. However the indiscriminate nature
+of his predation makes the manticore better suited
+to guarding an isolated vault rather than the walled
+gardens of a sultan's palace.
+
+
+--- INICIO PÁGINA 55 ---
+
+
+
+--- INICIO PÁGINA 56 ---
+
+MIMICLING
+
+“Mimics resemble blobs of goo when they are between
+shapes. Most often, they assume the form of simple
+wooden, stone, or metal structures, depending upon
+their breed. Those could be chests, typical doors,
+
+a park bench, a footstool, or other items that are
+comparably sized to the creatures. On rare occasions,
+they join forces to comprise larger structures such as
+sheds, cave entrances, or keep gates.
+
+Their demeanor is as varied as any other species.
+Some are friendly, while others are vicious. One might
+pull humorous pranks as another sets itself up as a
+trap. Having little need for language, it is the unusual
+mimic that bothers fashioning vocal chords and an
+orifice for speech, much less learns languages, but they
+do exist and can be reasoned with.
+
+Courtships involve displays of mimicry by both
+parties and may last for months, until the pair has
+decided they've made the right choice of mates.
+
+At that point, they join indistinguishably as one
+in their amorphous state. They tend to find a safe
+place to shelter during the weeklong process. Any
+interruptions result in a violent response to the
+culprit.
+
+Since mimics don't always live in close proximity
+to one another, they may also reproduce asexually,
+temporarily exhibiting characteristics of both male
+and female specimens. The process doubles in time and
+results in the same violent response if interrupted.
+
+Regardless of reproductive method, the impregnated
+mimic carries the unborn mimicling for three months.
+During that time, it limits its mimicry to protect
+the young. The mimicling may be carried by either
+the mother or the father. In the case of asexual
+reproduction, the offspring will be identical to the
+parent. Otherwise, it will have traits from both.
+
+Most often, mimics of like type will mate. However,
+there are the occasional hybrids as a result of
+heterogeneous pairings, the most common being
+those with the ability to mimic wood and stone, those
+able to mimic stone and metal, or like hybrid pairs.
+
+When the mimic is at full term, it seeks a hiding
+spot that offers shelter from the elements, noise, and
+
+would-be predators. Labor lasts two to six hours and
+may be safeguarded by other mimics in the vicinity.
+
+52.
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+Intelligent
+
+General Care
+
+Newborn mimics require water and protein found in
+worms, beetles, and other invertebrates. They simply
+absorb them into their goo, having no mouth. They eat
+one-quarter their weight in food and drink one-half
+their weight in water each day in this stage.
+
+When they reach 4 weeks of age, they have doubled
+in size and begin developing a mouth, nose, and eyes.
+Their nutritional needs double as well, and they begin
+attempting to mimic shapes during this phase.
+
+In the third growth phase, lasting four months,
+mimiclings continue to eat and drink in the same
+quantities as the second phase, but they are able
+to eat small vertebrates, such as mice, birds, and
+snakes, as well as invertebrates. Their ability to feed
+by absorption diminishes, necessitating the use of
+their newly forming mouths. Simultaneously, its eyes
+become apparent.
+
+It isn't until they reach their year-long fourth phase,
+akin to the human teenage phase, that they can begin
+to eat larger animals and cannot be sustained by the
+average quantity of invertebrates. They require three-
+quarters their weight in food daily, and their water
+needs lessen to the same rate. During the course of
+growth, they become adept with many basic mimicry
+techniques. They reach adulthood at a year and a half.
+
+Mimiclings are naturally curious and patient. If
+introduced to others of various species within their
+first three phases, the chance of befriending them
+and socializing with them is high. However, like most
+beings, they can discern emotions and aren't given to
+tolerate poor treatment.
+
+Training
+A mimicling is inclined to attempt to take the shape of
+those things in the world around it. Its first attempts
+at mimicry generally are to replicate the shape of its
+parent. When the perceived parent is of a different
+species, it's not uncommon for a mimicling to shape
+itself into a wooden-looking shoe or stone-looking
+arm.
+
+If you allow the mimicling in its goo state to envelop
+an appendage, it will learn that shape much faster
+than by just trying to mirror it. Be careful not to allow
+it to stay on your skin for more than an hour, as the
+enzymes its body uses for various processes can cause
+irritation or rash.
+
+
+--- INICIO PÁGINA 57 ---
+
+
+
+--- INICIO PÁGINA 58 ---
+
+MINOTAUR CALF
+
+Standing at 9 feet (3 m) tall, covered in short fur and
+bearing the head of a cow or bull the minotaur is a
+fearsome, but commonly misunderstood, creature.
+During the rise of the Taurus constellation, the bull
+Minotaur will pursue the cow Minotaur, navigating
+her labyrinth by the light of the stars to locate his
+mate before the stars have set.
+
+The gestation period of the minotaur averages 10
+months. Born live, the calves are fully formed and
+respond naturally to stimuli. The minotaur adults
+will remain as a pair, nurturing the calf until it is of
+an age (approximately 4 years) to survive on its own.
+Minotaur calves mature at a similar rate to bovines,
+growing quickly, but their lifespan is more akin to
+humans. Once a calf reaches the age of maturity, they
+are placed in the center of their mother's labyrinth
+and must navigate themselves out before they are
+considered adults.
+
+Constellations and the stars are very important
+to the minotaur. As they grow, they are taught the
+secrets of the stars and how to understand and
+decipher their meanings. Some might say there is
+magic in their way of dealing with the stars, with
+their unnatural abilities to navigate, predict, and
+comprehend stellar movements and events. A
+minotaur calf is named after the star it is born under
+until it has reached the age of maturity, and then
+it chooses a constellation under which it will live,
+guiding its life with the stars, and renames itself.
+
+Minotaurs possess an ability to navigate with
+the stars, to predict oncoming weather and stellar
+events, and extreme prowess in battle. They also have
+unwavering dedication to solving puzzles. When
+presented with a puzzle, the minotaur must solve
+it or experience a wave of depression. When solved,
+however, the minotaur is rejuvenated. Minotaurs
+navigate labyrinths with particular ease, and calves
+are no exception. Without this skill, the minotaur
+calves would likely not survive their early years living
+in the labyrinth of their mothers. This skill also helps
+them to protect themselves once they have built their
+own labyrinth or assumed the labyrinth of their fallen
+parents.
+
+54.
+
+Rearing Difficult
+Tricky Y
+Intelligence
+Civilized
+
+General Care
+
+Minotauxs are strictly vegetarian and do not eat
+
+any meat. This is contrary to some tales of them
+devouring adventurers in a bestial fashion. If
+presented with meat as their only option, minotaurs
+will refuse the food even unto starvation. Bull calves
+and some cow calves will develop horns that must be
+regularly sharpened and filed to avoid overgrowth.
+
+A minotaur's fur must be cleaned on a regular basis,
+otherwise it will be tangled and caked with mud and
+dirt. Bathing is recommended. Most minotaur calves
+do not mind these baths and will accept them with
+pleasure. Minotaur calves are especially stubborn as
+they reach the age of maturity, but they are docile
+until approximately age 3. They are easy to work
+with and teach new skills. However, it is important
+to remember that minotaurs are sentient creatures
+with their own needs and desires. Treating them with
+respect is vital, for they can easily turn on those who
+would desire to control them, and an angry minotaur
+is not easily calmed.
+
+Rearing
+
+Puzzle play is at the core of raising a healthy and sane
+minotaur calf. Even more so than human toddlers
+they quickly grasp any toy that involves geometry,
+and once verbal some take this cleverness into
+wordplay and riddles, though mazes remain their
+first love. I have had great success building small
+labyrinths out of wooden blocks and, later, teaching
+calves gardening with hedge mazes (which they enjoy
+even more if the hedges are edible). Be prepared too
+for many late nights stargazing and watching stellar
+events with your calf, and answering their slow but
+thoughtful questions about the world.
+
+For good health and stimulus, hide a salt lick
+somewhere in a maze for them to find, and move it
+often.
+
+Minotaur horns ate widely prized on the black
+market, and a full skull can go for a sizeable bounty.
+Some cultutes perceive minotaurs as wise observets,
+capable of living in peace while in close proximity to
+their mazes. This typically comes from a deep-rooted
+respect for the minotaur and would probably move
+people to protect the minotaur if anything threatened
+
+them.
+
+
+
+--- INICIO PÁGINA 59 ---
+
+
+
+--- INICIO PÁGINA 60 ---
+
+NIGHTMARE COLT
+
+Nightmares are intelligent equines with thick black
+coats, shining hooves that strike sparks with every
+step, and manes and tails made of black flames. The
+front hooves end in talon-like toes, and nightmares
+have pronounced fangs, such as their elongated
+canine teeth. Smoke issues from their nostrils in
+accordance with the strength of their emotions, and
+they are reputed to give off noticeable heat if touched.
+Nightmares live in small family groups upon
+the plains of Hell. As even the nine levels of Hell
+experience seasons, every three years, the vast
+plains dry out and turn a deep shade of orange.
+Here, nightmare stallions begin courting females,
+creating complex patterns and paths of fire in the
+fields for the females” delight. Once a mate is selected
+and consummation is achieved in the usual equine
+fashion, the mare begins to swell with the pregnancy
+while the stallion gathers food and protects her. After
+three months, the mare gives birth to a single small
+egg covered in a glittering layer of ash. The stallion
+digs a hole for the egg, and it glows with a lava-like
+heat once seated. The stallion and mare share turns
+gathering food, protecting each other, and caring for
+their egg. After six months, the egg hatches, and a
+nightmare colt emerge. It nurses on the boiling milk
+from its mother as well as regurgitated grass from
+its father's mouth, and it is able to walk shortly after
+birth. Its coat is the same orange as the grasses of
+the hellish plains, and the colt will curl up in a hollow
+while its parents hunt, blending in perfectly with the
+ground.
+
+General Care
+
+Although colts are vegetarians, most adult
+nightmares primarily consume meat from the small
+demons that populate the infernal plains in rabbit-
+
+Ml L
+
+Nightmares thrive on theit native plane of Hell but
+can survive on most non-aquatic planes. They prefer
+beds of dty grass and seem amused at their handler's
+panic when said beds are set aflame when they lay
+down. Their front hooves are very much sought after
+on the black market, as gloves can be fashioned from
+them allowing the weater to inflict nightmares on any
+person whose blood is smeared on the talons.
+
+56.
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+Intelligent
+
+like burrows. Demon marrow is a delicacy to them,
+and can be used as a reward in limited amounts. They
+use their clawed front hooves to dig the creatures
+from the ground, so burying imps for them to find
+can be made into a play activity, while tossing them
+
+a quasit before a good rub-down will endear you
+immensely.
+
+Grooming is accomplished with their sandpaper-
+like tongue. As a sign of affection, it is usually only
+practiced among family groups. Nightmares are
+standoffish toward others of their own kind; it can
+take several seasons for a couple to come together.
+They are aggressively violent toward humanoids, and
+they openly mock other four-legged creatures.
+
+Rearing
+
+The overwhelming challenge in taking on a Nightmare
+colt is that your beast is, instinctively, a demonic
+predator who invades sleep and thrives on terror. This
+is not a business to be entered lightly, and you should
+be prepared either to put down the creature if it
+shows resistance to control training, or be prepared to
+accept the death and mayhem your charge will cause.
+
+That said, even these denizens of Hell respond to a
+kind word and positive reinforcement. If captured or
+found very young, while still vegetarian, nightmares
+can be trained as companions and mounts. Make the
+transition to their adult meat diet with large amounts
+of fish and poultry, so that its hunger is not first
+sated with mammal meat. If you are sure enough of
+your state of mind, sleep close to the stable and let
+the foal's inclination to delve into dreams find you
+waiting, with the same patient kindness you show
+while awake. Nightmares learn to be aware of their
+effect on others” dreams, and while wild nightmares
+will relish the fear they cause, tame nightmares can
+learn to tread cautiously and leave a mind merely
+uneasy and disturbed. There is no known way to
+prevent the fear effect entirely, which is why they are
+so often employed as weapons to ruin morale. They
+are intelligent enough to be soothed if convinced that
+they are giving their nightmares to “bad people” and
+can be taught a simple sense of justice.
+
+
+--- INICIO PÁGINA 61 ---
+
+
+
+--- INICIO PÁGINA 62 ---
+
+OWLBEAR CUBS
+
+Jtis believed owlbears began as freakish creations of
+a wizard experimenting with animal hybridization.
+They intended to create a winged bear to fly into
+battle, but the creature's bones were not hollow.
+
+One owlbear pair escaped the wizard's tower, and
+while spellcaster was never heard from again, their
+creations are now a common sight in the deep forests
+of the world.
+
+Regardless of origin, the owlbear's appearance is
+certainly unique. Standing 8-% to 10 feet (2.5 to 3
+m) tall when fully grown, the owlbear has the body of
+a bear but the wings and beak of an owl. Most of its
+body is covered in coarse fur, but its arm-like wings
+are feathered and end in sharp talons.
+
+Owlbear pairs mate for life, and over the course
+of thirty years of adult life they may have as many
+as seventy offspring. Cubs mature to nearly full size
+within the first year and begin producing offspring
+as soon as they find a suitable mate. Female owlbears
+compete for their pick of eligible males in the area,
+and males do likewise, leading to alpha couples ruling
+a huge territory of up to a dozen other pairs . Woe be
+to the person who stumbles upon an owlbear colony
+during mating season.
+
+Egg Care
+
+Owlbear mothers carry their eggs internally for an
+extended period of time, and are able to choose when
+conditions are best for laying. Cubs hatch about
+
+one week after the eggs are laid, which means the
+window of time for stealing an owlbear egg from its
+clutch is very narrow. Most owlbear cubs in captivity
+are acquired after they hatch, and must be kept at
+owlbear body temperature at all times. Male owlbears
+typically snuggle up with the eggs until they hatch,
+which gives mother owlbears time to recover from
+giving birth.
+
+General Care
+
+Owlbears are tenacious and ferocious beasts. Even in
+captivity it can be difficult to tame them, although
+
+a cub who has been domesticated since birth may
+impress upon one to two people it views as its mother
+and father (regardless of the actual gender of the
+couple). You must establish a parental role with an
+
+58.
+
+Rearing Difficult
+Tricky Y
+Intelligence
+Clever
+
+owlbear cub very early in its life, otherwise it will only
+ever view you as its next meal.
+
+Owlbears are ravenous carnivores who prefer to
+hunt their own food. Wild owlbear cubs are taught
+to hunt within the first week of their lives and
+afterward are expected to feed themselves if they
+wish to survive, so it's important to raise your own
+cub in a similar manner. They learn to hunt best
+when tracking difficult prey such as squirrels and
+chipmunks, so start with those and lead up to larger
+and faster meals as your cub ages.
+
+Don't be surprised if your cub's uncouth eating
+habits lead to matted fur and sticky feathers. If you
+value your own hide, you won't try to give your cub a
+proper bath, but most owlbears do enjoy swimming
+so you can at least tempt it to rinse itself off now and
+then if necessary.
+
+Training
+Owlbear cubs respond best to two things: food and
+aggression. When training your cub, it's best to
+remember that a good meal will keep it placated but
+a firm hand is required to make it respect and obey
+you. This doesn't mean you should mistreat your
+cub—on the contrary, hitting an owlbear of any age
+is a surefire way to wind up as its lunch—but you
+should use an authoritative voice and establish strict
+boundaries if you want your cub to follow your lead.
+
+Because of their generally foul temperament, it's
+difficult to raise an owlbear to do anything but hunt
+or fight alongside you. With practice (and a lot of
+patience), you may be able to train your pet beast
+to act as a guard, but the creature's short attention
+span makes this difficult. To rear a guard owlbear you
+must regularly introduce prey into the area you wish
+the beast to protect. Eventually, it will learn that it
+doesn't need to wander away to find food, and it will
+stay within the vicinity you're trying to control.
+
+The most unexpected tactic an owlbear uses in
+hunting makes use of their underpowered wings.
+Though far too heavy to fly ot even glide, fit
+owlbears can manage an assisted leap, which they
+often use at the end of a charge to surprise an
+opponent expecting to meet them front-on. The
+tonne or more of bear-weight they drop on their foe
+L is usually enough to kill most prey.
+
+
+
+--- INICIO PÁGINA 63 ---
+
+
+
+--- INICIO PÁGINA 64 ---
+
+PHASE KITTEN
+
+Phase tigers, also known as fooler beasts or lash
+panthers, resemble black-furred tigers with six legs
+and four sharp-ridged tentacles. Sages believe that
+
+the original population slipped through from another
+plane, and that their strange detachment from their
+own visible images results from imperfect alignment
+with this material dimension. Light hitting the tiger
+encounters a high-energy distortion field and displaces
+by 3 feet (1m).
+
+The animals roam deep wilderness as solitary
+hunters. A phase tiger stalks with its image further
+from the prey than its body, making it effectively
+invisible in good cover. Then it pounces close, bloodies
+the prey with lashes from its spiny tentacles, and
+jumps away to keep its position unknown. When it
+tires of this game, or if injured, it knocks the creature
+over, pins it down, rakes out its guts with four powerful
+hind claws, then feasts. By age two the phase tiger is
+fully mature, 700 to 800 pounds (360 kg), and a vicious
+predator. It will defend its home territory, which can be
+quite large, even against much larger creatures.
+
+Mating occurs every two years, on average, and the
+male has no role in protecting the female or raising
+the young. Gestation takes 16 weeks, with the mother
+cat decreasing her hunting range and gorging on
+lesser prey such as chipmunks, nests of bird eggs, and
+even grubs. In the last week she finds a cave or digs
+out a den. At parturition, her phase effect intensifies.
+Her image flickers and jumps, finally stabilizing
+up to 30 feet (9 m) away . The image might appear
+above ground, giving away her position, though most
+creatures flee from the thrashing and yowling. Should
+any find her hiding spot, she attacks by surprise in her
+state of heightened sensitivity.
+
+The cubs, or kittens, are born in a state of stress,
+and their images appear at random from the spot of
+birth. Displacement declines only slowly with maturity.
+Each kitten weighs about three pounds (1.4 kg) and
+they cling to the mother and nurse. They do not open
+their eyes for a week, but do stagger around on their
+six stubby legs, mewling and bumping into things,
+while their images bonk their heads on nothing. The
+mother's own image gradually stabilizes as she recovers
+from birth injuries caused by the kittens' tentacle
+spikes. If she dies, the kittens quickly follow her. A
+litter of nursing phase kittens presents a wildly random
+
+60.
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+Clever
+
+appearance, and they nurse most of the time for two
+months. Any prolonged exposure to cold, or a day
+without nursing, makes the cub unlikely to survive.
+Blink dogs can smell a cub's position and attempt to
+catch it by teleporting, while it scampers about in
+terror; such chases can go on until the kitten collapses
+in exhaustion.
+
+General Care
+
+Starting at eight weeks of age, a phase kitten can
+survive in captivity. It requires nursing from a bottle
+and constant attention. Milk from most animals
+does not nourish the kitten, perhaps due to its
+interdimensional nature. For some reason, cat's milk
+works, requiring a tiger-sized animal or a whole stable
+of smaller cats. Only phase tiger milk gives the thick
+black coat; otherwise, the growing kitten takes on
+random fur color and pattern, reducing its market
+value. Some report successfully imitating a milk sample
+by careful use of food magic. Kittens thrive and learn
+better when at least two grow up together, though
+keeping track of them can be a challenge. By four
+months their tentacles are strong, and sharp enough to
+badly cut an incautious handler.
+Training
+
+At six months, after gradual introduction of meat,
+training begins. The cat weighs around 150 pounds
+(68 kg)”, “8 feet (2.5 m)”, and “one foot (0.3 m) closer
+per month, down to 3 feet (1 m). The cat intelligently
+watches trainers hunt and imitates them in play. It
+eats part of each kill. Some trainers use particular
+prey, including intelligent beings like goblins or human
+children, to instill the growing tiger with a taste for
+that meat. Over time, trainers move to maiming prey
+and letting the cat finish it off. At age one year, the cat
+can hunt on its own. Weighing around 400 pounds
+(180kg), it easily brings down man-sized foes.
+
+The cat recognizes only one master, and only obeys
+limited commands which it then ignores when injured.
+
+An adult phase tiger must hunt and kill live prey
+every day, or it becomes irritable and listless. Several
+reports claim that, after persistent abuse, a phase tiger
+will sometimes just disappear, perhaps fading back to
+its original plane, or into nothingness.
+
+
+--- INICIO PÁGINA 65 ---
+
+2
+
+
+
+--- INICIO PÁGINA 66 ---
+
+PHOENIX HATCHLING
+
+Phoenixes are birds of elemental fire found in arid,
+volcanically active regions. Symbolising the circle of
+life for many cultures, these fantastic creatures are
+not immortal (contrary to popular belief); rather,
+they possess a unique life cycle of near-seamless
+death and rebirth.
+
+Phoenixes can live for more than half a millennium
+and mate, at most, once a century; it is therefore
+rare for new phoenixes to be born. After mating, the
+female lays a clutch of two to three eggs at a suitable
+nesting site, usually within the caldera of a volcano or
+in a magma valley. The eggs require constant, intense
+heat for incubation, and must be rotated frequently to
+maintain an even temperature.
+
+In its first month of life, a phoenix hatchling
+is entirely dependent upon its parents for the
+prodigious amounts of food required to fuel its
+growth and its fiery nature. While the nest contains
+unhatched eggs, only one of the adults will leave
+to find food, but once all have hatched (or proved
+infertile), both must leave the nest for hours at a time
+to find food for the newborn hatchlings. This is the
+most dangerous time in a hatchling's life, for they
+are vulnerable to predation by dragons, salamanders,
+and other creatures from the Elemental Plane of
+Fire who also enjoy the intense heat of volcanic
+regions. Survival is often a matter of how successfully
+their parents have chosen the nest site, and adult
+phoenixes will tend to reuse successful breeding
+grounds again and again over the course of their long
+lives.
+
+Once the phoenix is fully fledged, its excellent flying
+ability and growing intelligence aid its continued
+survival, but should these prove insufficient, the
+phoenix is now capable of a unique trick: the ability to
+will its own rebirth.
+
+When a phoenix becomes severely injured, infected
+with a serious disease, or frail with old age, it will ind
+a nesting site and build a ritualistic pyre on which to
+immolate itself. From its own ashes it will reemerge
+as a fledgling, capable of flight but unable to access
+memories and knowledge from its past lives until it
+has lived for at least a century.
+
+If a phoenix's mate is reborn, it must make a choice.
+Most choose a clean break, flying to new territory and
+beginning a new life, but some choose to be reborn at
+the same time, allowing the option of eternity in one
+another's company.
+
+62.
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+Superior
+
+Egg Care
+
+Artificially incubating a phoenix egg is difficult but
+not impossible. Once removed from the nest, the egg
+must immediately be placed in a suitable incubator;
+it will die if it cools below the temperature of molten
+iron for more than a few minutes.
+
+The egg's temperature must then be held steady
+for up to six months while the hatchling develops.
+The most reliable technique is to use a magical heat
+source, but others have achieved the same result by
+placing the egg in the heart of a smelter that is kept in
+constant operation.
+
+General Care
+
+Phoenix hatchlings require a hot, dry environment
+with a nearby source of intense heat in which to bask,
+like a fire or forge. Their appetite is voracious in their
+first year, and they must be fed a steady supply of
+small live prey, incense, herbs, and fruits. To prevent
+them from falling ill, they must also be provided
+with lava rocks, which the hatchlings scrape with
+their beaks to gain vital minerals and grit to aid their
+digestion.
+
+Phoenixes do not agree with water, and a hatchling
+must never be doused or immersed. They gain
+sufficient moisture from their diet and do not need
+to have water supplied to them. A phoenix will
+contentedly bathe itself in sand or pumice and should
+not need to be groomed by its keeper; if a hatchling is
+listless and refuses to bathe, this is a sure sign that its
+keeper is failing to intellectually stimulate the bird.
+
+Phoenix hatchlings are very intelligent and should
+never be considered as something to train. Rather,
+they should be respected, guided. and encouraged
+into certain behaviours much like a human child. It
+is essential to develop a positive relationship with
+the bird as it grows in confidence and intelligence,
+respecting its space and its physical and emotional
+needs. As the bird's intellect forms, with all the
+curiosity of a child and the extraordinary reasoning
+ability of a library sage, it is important to challenge
+it mentally with lessons of history, arcane teachings
+and a variety of puzzles. They really enjoy moral
+dilemmas. An unstimulated phoenix can grow sullen
+or even violent as it acts out its frustrations.
+
+
+--- INICIO PÁGINA 67 ---
+
+
+
+--- INICIO PÁGINA 68 ---
+
+RAKSHASA KITTEN
+
+Rakshasa are powerful sorcerers and shapeshifters
+that, in their native state, appear as anthropomorphic
+tigers, walking upright on two legs with feet which are
+similar to but broader than tiger paws. They can move
+quickly on all fours should they feel the need. Their
+hands resemble tiger paws with an opposable thumb.
+While a rakshasa's sharp claws and carnivore's teeth
+suit them well for battle, they rarely engage in physical
+combat, relying most often on their natural prowess in
+the field of magic to debilitate their enemies.
+
+Rarely found in their native form, rakshasas can
+take on the appearance of other humanoids: humans,
+elves, even dwarves, though few will ever admit to
+this fact. In such a form, they are, to the race they
+are impersonating, extremely attractive and alluring,
+almost preternaturally so. This is another means
+of control over the rakshasa's “prey”; instead of
+consuming humans, many rakshasas prefer to win
+them over as loyal servants. Some may even mate with
+humans to create a clan of hybrid beings predisposed
+to defend, protect, and serve them with singular
+devotion. These children appear human but share the
+rakshasa's arcane gifts.
+
+Rakshasa who choose each other as mates will
+remain partnered for life. The courtship of rakshasa
+is as at least as complex as between two humans.
+Rakshasa value innate magical abilities, power, beauty,
+and intelligence, and they are extremely picky when
+choosing a mate to spend the rest of their lives with.
+When a mated pair of rakshasa chooses to have a
+litter, they remove themselves from civilization to
+spend time raising their kittens together.
+
+Rakshasa females produce one to three kittens in a
+litter. These offspring mature incredibly quickly, aging
+nearly the equivalent of one human year in a mere
+month. A rakshasa pair will remain in their secluded
+hideaway for a full year with their litter, until the
+kittens are the equivalent mentally and physically to a
+12-year-old human. At this point, the kittens will have
+mastered their shapeshifting abilities well enough
+to infiltrate normal society, prompting the rakshasa
+family to return “home.”
+
+General Care
+
+For the first six months of their lives, rakshasa
+kittens generally nurse from their mother. Orphaned
+rakshasa kittens, or those that have been separated
+from their parents, can survive on human milk from
+
+64.
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+Civilized
+
+a nursemaid. However, at around the middle of their
+first year, they will wean to a primarily carnivorous
+diet. To bond with their infants during the first few
+weeks, rakshasa parents use their tongues to groom
+their newborn kittens. After this they swap to bathing
+their young in warm baths like humans.
+
+Like infant humans, rakshasas require constant
+companionship when they are newborns; those that
+are not held and stroked often in their first month
+will find it much more difficult to interact positively
+with other sentient beings and may become socially
+maladjusted. Rakshasa parents will sleep curled up
+with their infants for the first few months, reinforcing
+their family unit. If you are raising rakshasa
+kittens from a very early age, this practice is highly
+recommended to encourage a good relationship with
+the kitten.
+
+Rearing
+
+Rakshasa kittens are exceptionally bright; they are
+able to learn how to read and speak within their first
+two months. Their magical talent begin to manifest
+around the third month (earlier for extremely
+precocious kittens). At first they are barely able to
+control these abilities, which make them extremely
+dangerous. A kitten throwing a tantrum may set a
+room on fire or cause objects to levitate violently, so be
+prepared.
+
+Rakshasa kittens, even those that are orphaned at
+birth, are unlikely to regard their human caretakers as
+parents. However, even a rakshasa that is predisposed
+to mischief or evil deeds can possess an extreme
+depth of feeling for human surrogate families. Do
+not be surprised if your kitten develops feelings of
+superiority over you. It is important to acknowledge
+a kitten's impressive intellect and arcane ability, while
+laying down boundaries and maintaining authority.
+Do not be dismissive of their questions, but be firm in
+your position as caretaker.
+
+Rakshasa kittens are best distracted with knowledge.
+In their first year of life, they will be excited to learn
+not only how to control their innate magic but also to
+intimately understand the history, religion, culture,
+and language of many different regions and peoples.
+The more you teach them, the more likely it is that
+your relationship will remain positive. Likewise, the
+more genuine care you show toward a rakshasa kitten,
+the more likely it is that this care will be reciprocated.
+
+
+--- INICIO PÁGINA 69 ---
+
+
+
+--- INICIO PÁGINA 70 ---
+
+RUST WEEVIL
+
+Neither fish nor fowl, the rust monster has a
+quadrupedal body similar in appearance to an
+enormous beetle, with feathered, moth-like feelers on
+head and tail, and a chitinous exoskeleton.
+
+While they tend to be solitary, rust monsters
+make an annual pilgrimage from their territory to a
+spawning ground, where the female will be courted by
+several males at a time. After she has picked her suitor,
+the male rust monster will lay his sperm in a special
+organ inside the female, where she can release it at
+will. Once impregnated, the female will wander off to
+find an ideal hatching ground. This may take several
+weeks, but once the female has found her spot, she
+will release the sperm and assemble her nest. To do so,
+she takes several rusted items and creates a little rust
+ball into which she will lay her eggs, a clutch of 12-15,
+after which she leaves the weevils to their fate.
+A month later the rust weevils will munch their way
+out of the rust ball, spend a few hours waiting for their
+chitin to dry and harden, and leave the nest to find
+their own food.
+
+Egg Care
+
+Rust monster eggs are the size, and often the shape, of
+an ogre head, and are usually red or tan in colour. They
+have a smooth rubbery surface, and is usually hidden
+inside the rust ball in a dark nook. If you do find a
+
+rust monster egg and wish to take it home, you should
+handle it carefully so as not to break the surface.
+
+Keep it in a dark place, with plenty of ferrous metal
+surrounding it, and within four weeks you will have a
+hungry little rust weevil on your hands.
+
+From bitter experience, 1 cannot stress enough how
+ESSENTIAL it is that you keep metals you do not wish
+devoured at least 50feet (15 m) away from the weevils
+AT ALL TIMES (the blacksmith next door still has no
+idea what happened to his anvil, but 'd rather not
+repeat the mistake).
+
+General Care
+
+As might be apparent from the name, eust monsters
+like to eat rusted and oxidized metals. While they're
+not overly fussy about where the metal comes from
+(swords, spades, buckles etc), they are partial to iron
+and steel. Precious metals such as gold and mithril will
+be consumed, but only if there is nothing else. They
+
+66.
+
+Rearing Difficulty
+Complicated
+
+Intelligence
+Instinctual
+
+will drink water, but very rarely and prefer to have a
+small bowl sweetened with honey or fruit juice.
+
+Again, from personal experience l advised you not to
+feed your rust monster magical artifacts as the magic
+can have unwelcome, and sometimes dire, side-effects
+as it passes through the monster's digestive tract.
+
+Despite their appetites rust monsters are friendly
+creatures who only become agitated when they sense
+metal. They are quite sensitive and can detect its
+presence up to 40 feet (12 m) away. As long as you
+have only wood, leather or stone items on you, you
+should be fine. They can become positively affectionate
+over time, and have the same level of intelligence as a
+large dog.
+
+Rust monsters seem to enjoy having their chitin
+plates caressed, and in order to bond with your
+creature, we advise giving it regular brushing and
+polishing sessions. However, as they are solitary
+creatures, be careful not to crowd it with too much
+attention, but wait for it to seek your company.
+
+Training
+
+Rust monsters are easy to train thanks to their
+relatively high intelligence and docile personalities.
+Keeping them well-fed may be costly, but as long as
+your monster isn't starving for metal it can be quite
+easy to raise. You will need to adapt certain tools to
+use only wooden or stone materials. If you plan on
+putting your rust weevil on a leash you must make
+sure it does not fasten by a metal clasp. If you need to
+keep your pet in a cage, make sure it's made entirely of
+wood or bone.
+
+Like many pets, you can train your weevil to
+do tricks by demonstrating the desired behavior and
+rewarding it with treats when it performs to your
+expectations. Avoid negative reinforcement with
+your pet, though; mistreated rust monsters tend to
+be passive aggressive. 1 once knew an orc who hit his
+poor weevil, and the next morning he awoke to a nasty
+draft--his pet ate all of the hinges off his doors.
+
+They are often not traded on the black market,
+
+as those most likely to collect esoteric items
+
+and creatures rarely want to deal with the rust
+monster's obsessive greed for metal. On the other
+hand, infesting an enemy keep with the critters
+makes for a good prelude to assault.
+
+
+
+--- INICIO PÁGINA 71 ---
+
+
+
+--- INICIO PÁGINA 72 ---
+
+S
+
+The legendary sphinx is a creature that is both
+adored and feared. They can be distinguished by their
+unique appearance; the body of a powerful lion, the
+reaching wingspan of a great roc, and the torso and
+head of a beautiful human. Their great intelligence
+surpasses that of most humanoids and they are
+masters of lore, magic and riddles, with which they
+love to challenge others. Their intellect is only rivaled
+by the precision and acuity with which they hunt. The
+greatest myths of their kind revolve around heroes
+asking for a sphinx's supreme wisdom to aid in their
+quests but only receiving it when they can match wits
+with the creature.
+
+Mating habits are no different. Both sphinx genders
+are on the lookout for another of their kind who can
+match or surpass their own hunting prowess (they are
+part lion after all) and mental affinity. The female puts
+the male through a series of physical challenges to see
+if he can keep up with her in the hunt, and the male
+creates trials of intellect for the female to overcome.
+Only when they meet each other's high standards do
+they bond as a pair and begin breeding.
+
+Gestation lasts for about six months, and a female
+sphinx only produces a single kitten at a time. This
+low birthrate, and their preference for isolated dens
+in difficult terrain, makes the sphinx a rare creature to
+encounter.
+
+Birth is usually in a heavily protected location atop
+rocky cliffs, surrounded by magical barriers to keep
+unwanted explorers out. About nine months after
+giving birth, the parents go their separate ways and
+agree together which of them will take the child to
+continue its education. Their supremely logical minds
+render a decision swiftly, and there is rarely any
+dissent between them on this topic. The absent parent
+may never see their child again, unless circumstances
+put the caring parent at risk or the child seeks them
+out.
+
+An inadequate or cruel upbringing can result in
+quite a different story. A sphinx kitten's voracious
+intellect will focus on the physical, the tricks of the
+hunt and techniques of killing, and by adolescence
+evolve into a deadly sociopathy. Even a kitten on
+this path is truly dangerous, leveraging its adorably
+innocent appearance to indulge in malevolent
+
+playfulness.
+
+68.
+
+PHINX KITTEN
+
+Rearing Difficulty
+Complicated
+Intelligence
+Superior
+
+General Care
+
+For the first six months of life, a sphinx kitten is its
+parents” pride and joy and as a surrogate parent you
+should treat your kitten likewise. Cuddle the kitten,
+and give it regular grooming with a wet towel to
+replicate the tongue baths its natural parents would
+give, and stimulate its mind by speaking to it in as
+many languages as you can. It will prefer meat and
+fresh berries, and steadfastly ignore vegetables,
+
+but fruit makes a nice treat to reward scholarly
+achievements.
+
+By 12 months, most kittens can cast at least
+a levitation spell for its own amusement. This
+is also the age where its chosen parent begins
+to teach them to hunt. The child's first prey is
+something small, typically a rat or squirrel, and it is
+important to celebrate the first such act with lots of
+encouragement, as fussy or squeamish sphinxes tend
+toward dependence, and some will go on to build cults
+of humanoids devoted to their service rather than
+do the work themselves. When reaching 2 years of
+age, a sphinx kitten's wings should have sufficiently
+developed to carry it forits first flight; I recommend
+you get hold of some magical means of flying yourself,
+to coax it into the air and join it on its first aerial
+forays.
+
+Born with the the power of intellect and the
+prowess of their parents, sphinx kittens need to be
+constantly challenged by their caretakers to properly
+develop. They require the expertise of a skilled
+huntsman and a sorcerer to teach them of the hunt
+and to wield their natural arcane powers. A kitten
+raised this way is a well of untapped potential, and
+it takes a true polymath of a beastmaster, or a group
+of dedicated experts, to give the kitten an education
+equivalent to its sphinx parents. Above all, nurture
+and encourage them to excel in their studies and
+expose them to as many varied cultures as you can
+so they do not become aloof or bored. They will
+eventually, inevitably, leave to explore the world
+but building a strong bond of respect and a solid
+foundation of knowledge will give you a marvellous
+
+friend for life.
+
+
+--- INICIO PÁGINA 73 ---
+
+
+
+--- INICIO PÁGINA 74 ---
+
+TITAN TYKE
+
+The Unending Horror. The Moving Blade. Death of
+the Kasha'hareen, Destroyer of Civilizations. The titan
+is more than just a creature of legend, it is a brutal
+nightmare made flesh. It is 60 feet (18 m) and 6 tons
+(5.4 tonnes) of brutality packaged in red scales and
+sharp spines. Its horns and jagged blades growing
+from its back are more than just adornments, they
+
+are almost infinitely sharp blades capable of cutting
+through the hardest materials.
+
+The titan is the only creature that appears in draconic
+legends serving as a creature of fear. One of their tales,
+“Boagerund the Red)” tells of a great dragon that went
+mining for gemstones to fill his hoard. In the deepest
+roots of a mountain, he uncovered a gemstone like no
+other, locked inside a geode of marble. He took the
+stone to his lair where he coveted and obsessed over
+its magnificence and beauty. So enthralled he became
+with the gem that, to prevent its loss, he devoured
+it. The stone effected a profound transformation
+upon him: his body twisted and his mind turned to
+constant, raging and uncontrolled destruction. During
+the change his bellows shook the mountain to rubble
+and cracked the earth to its molten heart.
+
+Encounters with titan young are rare and often
+become legends in themselves. An old elven story
+speaks of the ruin of one of their greatest cities,
+which began with a young princess discovering an
+infant titan in the wild. She sang it a melody, and
+the creature followed her home. She used a lullaby to
+place it in a deep slumber. When the city was sacked
+by invaders and the princess silenced there was no
+one to continue the song, and the great beast rose and
+destroyed the invaders, as well as what remained of
+the elven city.
+
+It is rumored that the titans that walk the realm are
+but whelps of an even larger beast. May the gods have
+pity on us and save us should their progenitor ever be
+found.
+
+Egg Care
+
+Every century or so, the titan is known to lay eggs,
+leaving them in its wake without care or concern,
+
+as creatures instinctively stay far away from these
+sites for good reason. The egg appears like a black
+craggy boulder standing about 20 feet (6 m) high. It
+is practically impossible to distinguish save for the
+
+70.
+
+cl
+
+Extremely Difficult
+Intelligence
+Instinctual
+
+instinctive unease one feels in its presence, until a few
+days before hatching, when it cracks to expose the
+colorful albumen.
+
+The incubation time of the egg varies. My best
+guess would put it between a few decades to a whole
+century before hatching. Most scholars will say that
+a discovered egg should be transported far from any
+civilisation one might care for, if anyone brave enough
+can be found to moveit.
+
+General Care
+
+If you are unlucky enough to find yourself in the
+company of a young titan who has not immediately
+devoured you, it would make sense to provide it an
+ample supply of food and a lot of space where the
+creature can roam. There is no way you're going to
+keep this creature cooped up. If you have the luxury
+of space, 1 would keep the tyke constrained to a vast
+mountain canyon or in a controlled extradimensional
+plane where you can minimise the damage. The
+titan is an omnivore and can eat almost anything
+for sustenance, but will seek out and chase fresh
+meat before eating plants. It will gorge itself upon
+staggering quantities of food before, finally, entering
+a deep slumber. 1 strongly suggest you bring a cabal
+of wizards to cast growth on the available herds to
+extend the food source.
+Training
+
+Don't. Just don't. Every legend ever written about the
+titan suggests that at best, it will stay still only to let
+you walk close enough to be eaten. If a gem similar
+to the fabled original could be found, perhaps there
+might be a way to contain it, or at least turn it toward
+someone else's demise, but such plans are the domain
+of the mad and hopelessly evil.
+
+If 'm wrong, though, please write me a letter
+outlining the technique and 1 shall publish it in my
+next book.
+
+An orcish version of the Princess” Lullaby legend
+suggests the girl had a voice like a harpy”. While
+singing would not be my first reaction to a Titan,
+perhaps there is more to this rumour.
+
+
+
+--- INICIO PÁGINA 75 ---
+
+
+
+--- INICIO PÁGINA 76 ---
+
+TREANT SAPLING
+
+Many cultures attribute special powers to their
+native trees. That may be in part due to treants. These
+long-lived sentient trees are found in the depths of
+old growth forests and remote locations. Some of the
+bravest and most adventurous have spawned a slow
+migration across the globe.
+
+They appear as normal trees, until you notice
+their limbs moving against the wind or hear them
+whispering to their woody brethren in slow creaking,
+rustling voices.
+
+When the fae blessed the ground of the first treants,
+they imagined only that their creations would guard
+the woods where they lived. It was a testament to
+the fickleness of fairy magic that they also evolved to
+procreate, developed reasoning and the capacity to
+speak with mind and voice, and move across the land.
+
+Like their mundane cousins, treants may be born
+of seed, although methods vary. Willow-like treants
+join limbs over the course of the spring and summer
+seasons, yielding seeds which fall beneath them as
+they explore their union. Other types mimic natural
+trees seed production. In any event, seeds will only
+develop into saplings if the correct, rare conditions
+are met.
+
+Treants resembling banyans merge into oneina
+tangle of their limb- roots. This year-long endeavor
+produces up to four young who split off from their
+parents as saplings.
+
+Treants have also attempted to graft part of
+themselves onto trees as they have seen orchard
+masters do. There's a one in 10 chance of success and
+it can't be attempted more than once a year. Grafting
+works best if they take twigs from their bodies to
+graft onto mundane saplings. Ifit takes hold, the
+treant will overwhelm the sapling within three
+months and will have characteristics of its parent and
+the mundane sapling.
+
+Finally, there is magic, though the fae are not free
+with their lessons or talent, so unless one simply
+wants to create a treant from raw magic (or more
+likely a wood golem), it's unlikely yow'Il find a first-
+generation treant.
+
+It takes 12-16 months for a treant's offspring to
+develop into a sapling regardless of reproduction
+method. Most varieties protect the pre-sapling state
+by sheltering it within the female's body. Both parents
+
+Vit
+
+Re e Difficulty
+asy
+
+Intelligence
+Civilized
+
+teach it of treant life during that time, transferring
+collective and individual memories at the cellular
+level. At eight months, it can respond in small ways.
+Birth when it comes is swift, a simple splitting of
+the bark and the emergence and rooting of the new
+sprout under the shelter of its parent's boughs.
+
+General Care
+
+Treant saplings require sunlight, water, and soil,
+although exactly what kind depends upon the variety
+of treant. Natural compounds can be used to augment
+the soil. Experiment on mundane trees with fish
+meal, vegetable peels, blood, or even mineral dust
+
+to ensure your treant sapling has everything needed
+for robust growth. Dig carrion you find from small
+animals and birds into the soil around the base. They
+must root for the first two months of their lives and
+begin to walk at 2-8 months.
+
+Saplings start to understand speech after 10
+months. It won't be able to form words of its own
+until it's reached at least a year of age. If a sapling is
+not exposed to speech within the first two years of its
+life, it will learn language more slowly than a human
+child would.
+
+They can be transplanted but prefer to stay within
+30 miles (48 km) of their birth until they have
+reached adolescence, 5-25 years of age depending on
+variety. If you have befriended a sapling, you may be
+able to lure it with tales of adventure. Generally not
+interested in the workings of those beyond the copses
+of their homelands, a person who plays up seeing new
+woods or exotic treants has a much better chance of
+success than one who offers coins.
+
+Saplings may try to shape themselves into
+something bipedal and narrow enough to be
+somewhat disguisable. It makes it easier to travel with
+people that way. Treant friends should be aware that
+they become sluggish in the winter, and positively
+sprightly in the spring when their sap rises.
+
+The major limitation of treant companions is their
+aversion to campfires. After a long winter of cold
+camping, your woody friend may look less than
+appealing, but 1 have yet to prevent one from putting
+a fire out unless it's caused by natural lightning strike.
+
+The best perk about working with treants is one
+always has a storyteller handy.
+
+
+
+--- INICIO PÁGINA 77 ---
+
+
+
+--- INICIO PÁGINA 78 ---
+
+WYVERN ELVER
+
+The wyvern is a large, rare flying reptile which lives
+in high mountainous regions. A dose of poison from
+the tail stinger of an adult is strong enough to kill a
+horse, and from their eyries they prey on the goats,
+deer, and sheep that populate the mountainside.
+Domestic flocks are easy pickings for wyverns and
+are considered a dire threat to the herd, leaving
+shepherds to seek out adventurers to wipe out the
+nests.
+
+A full-grown matron reaches a length of 30 feet (9
+m), half of which is tail, with a wingspan that matches
+their length. Their nests I can best describe as a
+deep cup, practically the size of an inverted barn. Its
+steep sides prevent prey or elvers from escaping. By
+instinct, they construct their eyries above steep cliffs
+or on sheer peaks, making it difficult for aggressors
+to reach the nest by climbing. The female wrenches
+up mid-sized trees for its construction and lines it
+with leaf litter and fur stripped from kills. Much to
+my surprise, druids of my acquaintance inform me
+that this clearing of trees is part of the forest's natural
+regrowth cycle. Mountaineers and hunters learn to
+recognize these denuded patches to tell when they
+have entered the hunting territory of a wyvern.
+
+Wyverns mate once a year and do so mid-flight. To
+produce viable eggs, the female must feast on blood
+for several days in a row. When ready, her wings
+flush bright red, and she takes to the air issuing a
+distinctive, shrill mating cry that can be heard for
+miles. Any males in the area respond by giving chase,
+as the female flies higher and higher. The strongest
+male catches her, often after bloody mid-air battles
+with his competitors. For the act of fertilization,
+the male wraps his wings tightly about the female
+and the coupled reptiles plummet downward. Two
+months after mating, the matron lays a clutch of five
+to eight leathery, spherical eggs 1.5 feet (0.5 m) in
+diameter. The eggs are incubated for six weeks prior
+to hatching. Typically, one of the eggs will not hatch
+and is consumed by the hatchlings.
+
+Egg Care
+
+The mother wyvern's frequent absences for
+hunting afford opportunities to steal eggs, though
+at great risk for she does not roam far. Wise
+hunters do not attempt to capture elvers, as their
+
+74.
+
+cl
+Extremely Difficult
+
+Intelligence
+Instinctual
+
+cries of distress will bring the mother rushing to
+the nest in protective rage. If you happen to get
+hold of a wyvern egg, keep it out of the sun, as the
+leathery eggs would die from drying out.
+
+General Care
+
+Wvern elvers emerge weighing a spindly 15 pounds
+(7 kg), with a 3-foot (1 m) span to their infant wings.
+The mother provides freshly killed prey until they are
+about two weeks old, then moves to small or dying
+game for the elvers to practice hunting. Even young,
+the poison from a elver can cause severe pain, and
+while not enough to kill a human alone, it's still not
+fun to get stung, especially if there is more than one
+hungry wyrmling around.
+
+In four to five weeks, the wyvern can flutter around
+the nest. A few make it over the edge, generally
+plunging over cliffs to their deaths. In three months,
+they can fly. Once the elver makes its first game kill,
+the mother abandons the nest and the babies until the
+next mating period, leaving the fledgeling wyverns to
+survive on their own. Survivability for the wyrmlings
+after the mother leaves is mixed, depending on the
+available food sources and whether adventurers or
+predators get to them.
+
+Training
+So far, wyverns appear to be quite resistant to
+domestication, with attempts leading to limited and
+typically disastrous results. 1 have only found one
+tribe of mountain kobolds that have successfully
+mastered the wyvern, though how it's done is still a
+matter of speculation. l intend to make a field trip
+one day and learn their techniques. Armies have been
+known to put wyverns in fragile wicker cages and
+aunch them into enemy ranks to cause havoc.
+
+J
+Mountain goblins love to collect elvers and cut off
+
+their tails to extract the poison, which they mix with
+hot sap and dip onto the heads of their crude javelins.
+Being goblins, they expect to lose a few comrades in
+the endeavor. When they can manage to capture the
+young alive in leather sacks, their shamans tell them
+to crop the wings, bury the wytmlings up to the neck,
+and fatten them on toadstools soaked in blood. They
+believe this practice increases the volume and potency
+L of the venom.
+
+
+
+--- INICIO PÁGINA 79 ---
+
+
+
+--- INICIO PÁGINA 80 ---
+
+
+
+--- INICIO PÁGINA 81 ---
+
+
+
+--- INICIO PÁGINA 82 ---
+
+
+
+--- INICIO PÁGINA 83 ---
+
+
+
+--- INICIO PÁGINA 84 ---
+
+E ISCOVER THE
+- ADORABLE -
+
+,
+,
+
+In a world of A and magic, E heroes vanquish terrible
+monsters and earn a place in legend. But what about the
+babies left behind? This book is the first exploration of a new
+kind of adventure, the raising of young monsters to become
+loyal companions, beloved friends or fearsome guardians.
+
+If you are looking for something novel to spice up a fantasy
+roleplaying campaign, or simply want to see a different side to
+the creatures of fantasy art, the Baby Bestiary Book has all the
+monstrous cuteness you could want.
+
+Funded by over 600 aficionados of animal affection on
+
+Kickstarter in 2014, this book joins the Baby Bestiary 2015
+| Calendar in a new line of products by Metal Weave Games. The
+Baby Bestiary Handbook will add some “awww” to your coffee
+table ornaments and “squee” to your players” squelching through
+dank dungeons.
+5 se
+
+e DY d «
+
+E
+UL
+
+-
+
+,
+...
+y
+
+-
+
+bo; -
+y MISBN 978-1-987916-17-=
+> y y
+O 2013 Metal Weave Games
+B,
+
+www.BabyBestiary.com -
+
+¿ABY BESTIARY and its logo are trademarks of Metal Weave Games in the
+U.S.A. and other countries. Its logo, images, descriptions and distinctive
+likenesses thereof, are trademarks of Metal Weave Games. All rights reserved. MSRP e. Ea uso
+
+www.MetalWeaveGames.com .
